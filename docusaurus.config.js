@@ -7,17 +7,16 @@ const config = {
   tagline: 'Dinosaurs are cool',
   favicon: 'img/logo2.png',
     
-  headTags: [
+   headTags: [
     {
       tagName: 'link',
       attributes: {
         rel: 'apple-touch-icon',
         sizes: '180x180',
-        href: '/img/logo2.png?v=1', // 這裡直接用你現有的 logo2.png，或者看你要換成哪一張
+        href: 'https://aa10200809-svg.github.io/my-website/img/logo2.png?v=2',
       },
     },
   ],
-
   future: {
     v4: true,
   },
