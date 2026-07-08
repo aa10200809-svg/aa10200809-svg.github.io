@@ -7,16 +7,7 @@ const config = {
   tagline: 'Dinosaurs are cool',
   favicon: 'img/logo2.png',
     
-   headTags: [
-    {
-      tagName: 'link',
-      attributes: {
-        rel: 'apple-touch-icon',
-        sizes: '180x180',
-        href: 'https://aa10200809-svg.github.io/my-website/img/logo2.png?v=2',
-      },
-    },
-  ],
+   
   future: {
     v4: true,
   },
