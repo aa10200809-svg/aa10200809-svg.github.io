@@ -11,11 +11,13 @@ const config = {
     v4: true,
   },
 
-  url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/',
+  // 修正後的個人 GitHub Pages 網址與路徑
+  url: 'https://aa10200809-svg.github.io',
+  baseUrl: '/my-website/',
 
-  organizationName: 'facebook',
-  projectName: 'docusaurus',
+  // 修正後的個人專案設定（部署關鍵）
+  organizationName: 'aa10200809-svg',
+  projectName: 'my-website',
 
   onBrokenLinks: 'ignore',
 
@@ -76,11 +78,9 @@ const config = {
     ({
       image: 'img/docusaurus-social-card.jpg',
       colorMode: {
-    
         defaultMode: 'dark',
         disableSwitch: true,
         respectPrefersColorScheme: false,
-        
       },
       navbar: {
         title: '主頁',
@@ -111,7 +111,8 @@ const config = {
             label: '關於我', 
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            // 連導覽列右上角的 GitHub 連結也改成你自己的專案囉！
+            href: 'https://github.com/aa10200809-svg/my-website',
             label: 'GitHub',
             position: 'right',
           },
@@ -146,7 +147,6 @@ const config = {
               },
             ],
           },
-          
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Ting.`,
       },
