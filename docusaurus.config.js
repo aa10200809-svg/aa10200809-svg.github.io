@@ -6,6 +6,17 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/logo2.png',
+    
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'apple-touch-icon',
+        sizes: '180x180',
+        href: '/img/logo2.png', // 這裡直接用你現有的 logo2.png，或者看你要換成哪一張
+      },
+    },
+  ],
 
   future: {
     v4: true,
