@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aa10200809-svg.github.io/my-website/blog</id>
     <title>My Site Blog</title>
-    <updated>2026-07-08T00:00:00.000Z</updated>
+    <updated>2026-07-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aa10200809-svg.github.io/my-website/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://aa10200809-svg.github.io/my-website/img/logo2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[混血營英雄]]></title>
+        <id>https://aa10200809-svg.github.io/my-website/blog/7/9 混血營英雄</id>
+        <link href="https://aa10200809-svg.github.io/my-website/blog/7/9 混血營英雄"/>
+        <updated>2026-07-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[因為有閱讀心得這項煩人的作業，所以我又重新翻出小說，『混血營英雄』這系列一共5本，其實去年暑假我把前4本全看完了，然後不知為何就是沒看最後一本，現在重新翻開，好看！想把它看完，因為好奇結局到底是什麼，哈哈]]></summary>
+        <content type="html"><![CDATA[<p>因為有閱讀心得這項煩人的作業，所以我又重新翻出小說，『混血營英雄』這系列一共5本，其實去年暑假我把前4本全看完了，然後不知為何就是沒看最後一本，現在重新翻開，好看！想把它看完，因為好奇結局到底是什麼，哈哈</p>
+<p>順帶一提，現在有颱風要來，五月天演唱會時程可能有變動，雖說我不去演唱會，但在網上看到很多五迷，祈禱不要颱風假，所以這邊也來祈禱一下，總之永遠信仰五月天。</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[練琴]]></title>
         <id>https://aa10200809-svg.github.io/my-website/blog/7/8 練琴</id>
