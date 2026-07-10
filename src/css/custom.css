@@ -30,14 +30,51 @@
 }
 
 .custom-alert-box {
-  background-color: #fa9e95;
-  border-left: 6px solid #ea4335;
+  /* 1. 改成 rgba 語法，最後的 0.2 代表 20% 的透明度 */
+  background-color: rgba(236, 103, 91, 0.6); 
+  
+  /* 2. 左側粗線保持原本的深紅色 */
+  border-left: 6px solid #eb5c4f;
+  
+  /* 3. 選擇性加入：微弱的紅色細邊框（讓透明框的輪廓在網頁上更精緻、更明顯） */
+  border-top: 1px solid rgba(231, 69, 54, 0.15);
+  border-right: 1px solid rgba(234, 67, 53, 0.15);
+  border-bottom: 1px solid rgba(234, 67, 53, 0.15);
+  
   border-radius: 8px;
   padding: 16px 20px;
   margin: 20px 0;
-  color: #3c4043;
-}
-.alert-title {
+  
+  /* 4. 文字顏色（深色模式下如果看不清，可以改成 #ffffff 或 #e8e8e8） */
+  color: #ffffff; 
+  
+  /* 5. 磨砂玻璃效果（當後方有背景時，透過去會帶有高級的模糊感） */
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}/* 綠色版的提示框 */
+.custom-alert-box.green {
+  /* 1. 改成 rgba 語法，最後的 0.15 代表 15% 的透明度 */
+  background-color: rgba(52, 168, 83, 0.25); 
+  
+  /* 2. 左側粗線保持原本的深綠色（Google 綠） */
+  border-left: 6px solid #57c674c5; 
+  
+  /* 3. 加入微弱的綠色細邊框，讓透明框在黑底上有精緻的輪廓 */
+  border-top: 1px solid rgba(52, 168, 83, 0.2);
+  border-right: 1px solid rgba(52, 168, 83, 0.2);
+  border-bottom: 1px solid rgba(52, 168, 83, 0.2);
+  
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin: 20px 0;
+
+  /* 4. 調整文字顏色（因為是黑底，原本的深綠色會看不清，這裡改成亮淡綠色） */
+  color: #b7eb8f; 
+
+  /* 5. 磨砂玻璃效果 */
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}.alert-title {
   font-weight: bold;
   font-size: 1.1rem;
   margin-bottom: 8px;
@@ -107,3 +144,4 @@ html[data-theme='dark']::before {
   color: #ffffff;
   text-shadow: 0 0 10px rgba(0, 132, 255, 0.6), 0 0 20px rgba(0, 132, 255, 0.4);
 }
+

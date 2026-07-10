@@ -14,7 +14,7 @@ const config = {
 
   // 修正後的個人 GitHub Pages 網址與路徑
   url: 'https://aa10200809-svg.github.io',
-  baseUrl: '/my-website/',
+baseUrl: '/',
 
   // 修正後的個人專案設定（部署關鍵）
   organizationName: 'aa10200809-svg',
