@@ -7,14 +7,13 @@ const config = {
   tagline: 'Dinosaurs are cool',
   favicon: 'img/logo2.png',
     
-   
   future: {
     v4: true,
   },
 
   // 修正後的個人 GitHub Pages 網址與路徑
   url: 'https://aa10200809-svg.github.io',
-baseUrl: '/',
+  baseUrl: '/',
 
   // 修正後的個人專案設定（部署關鍵）
   organizationName: 'aa10200809-svg',
@@ -38,6 +37,9 @@ baseUrl: '/',
         },
         blog: {
           showReadingTime: true,
+          // ✨ 限制側邊欄只顯示最新 5 篇文章，並改名為「最新文章」
+          blogSidebarCount: 5,
+          blogSidebarTitle: '最新文章',
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
@@ -90,9 +92,15 @@ baseUrl: '/',
           src: 'img/logo2.png',
         },
         items: [
+          // ✨ 將原本的 Blog 拆成「最新」與「列表」兩個按鈕
           {
             to: '/blog', 
-            label: 'Blog', 
+            label: '📝 最新', 
+            position: 'left'
+          },
+          {
+            to: '/blog/archive', 
+            label: '🗃️ 列表', 
             position: 'left'
           },
           {
