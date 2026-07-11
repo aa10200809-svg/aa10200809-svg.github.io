@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aa10200809-svg.github.io/blog</id>
     <title>My Site Blog</title>
-    <updated>2026-07-10T00:00:00.000Z</updated>
+    <updated>2026-07-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aa10200809-svg.github.io/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://aa10200809-svg.github.io/img/logo2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[MAYDAY]]></title>
+        <id>https://aa10200809-svg.github.io/blog/7/11 MAYDAY</id>
+        <link href="https://aa10200809-svg.github.io/blog/7/11 MAYDAY"/>
+        <updated>2026-07-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[7/13行程]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="713行程">7/13行程<a href="https://aa10200809-svg.github.io/blog/7/11%20MAYDAY#713%E8%A1%8C%E7%A8%8B" class="hash-link" aria-label="Direct link to 7/13行程" title="Direct link to 7/13行程" translate="no">​</a></h2>
+<table><thead><tr><th style="text-align:left">時間</th><th style="text-align:left">行程</th><th style="text-align:left">注意</th></tr></thead><tbody><tr><td style="text-align:left">11:47</td><td style="text-align:left">搭乘台鐵</td><td style="text-align:left"></td></tr><tr><td style="text-align:left">14:14</td><td style="text-align:left">抵達台北</td><td style="text-align:left"></td></tr><tr><td style="text-align:left">14:30</td><td style="text-align:left">坐捷運</td><td style="text-align:left">板南線（往南港）國父紀念館</td></tr><tr><td style="text-align:left">14:40</td><td style="text-align:left">松山文創園區</td><td style="text-align:left"></td></tr><tr><td style="text-align:left">17:00</td><td style="text-align:left">大巨蛋</td><td style="text-align:left">買螢光棒、拿票</td></tr><tr><td style="text-align:left">18:30</td><td style="text-align:left">大巨蛋</td><td style="text-align:left">進場</td></tr></tbody></table>
+<p>大概簡單規劃一下，反正就是到台北後，搭捷運去大巨蛋那裡，然後松山文創園區就在巨蛋旁邊，我是覺得人一定很多，附近走走看看就好。沒特別想買什麼，應該只會買螢光棒～</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[收到一則訊息]]></title>
         <id>https://aa10200809-svg.github.io/blog/7/10 收到一則訊息</id>
