@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aa10200809-svg.github.io/blog</id>
     <title>My Site Blog</title>
-    <updated>2026-07-11T00:00:00.000Z</updated>
+    <updated>2026-07-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aa10200809-svg.github.io/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://aa10200809-svg.github.io/img/logo2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[...]]></title>
+        <id>https://aa10200809-svg.github.io/blog/7/12 ...</id>
+        <link href="https://aa10200809-svg.github.io/blog/7/12 ..."/>
+        <updated>2026-07-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[沒什麼好寫，提醒一下自己剩4天了]]></summary>
+        <content type="html"><![CDATA[<h2></h2>
+<p>沒什麼好寫，提醒一下自己剩4天了</p>
+<div class="custom-alert-box"><div class="alert-title">🔥 離木琴大師班</div><ol><l>剩下4天</l></ol></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MAYDAY]]></title>
         <id>https://aa10200809-svg.github.io/blog/7/11 MAYDAY</id>

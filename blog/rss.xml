@@ -4,10 +4,20 @@
         <title>My Site Blog</title>
         <link>https://aa10200809-svg.github.io/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Sat, 11 Jul 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[...]]></title>
+            <link>https://aa10200809-svg.github.io/blog/7/12 ...</link>
+            <guid>https://aa10200809-svg.github.io/blog/7/12 ...</guid>
+            <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[沒什麼好寫，提醒一下自己剩4天了]]></description>
+            <content:encoded><![CDATA[<h2></h2>
+<p>沒什麼好寫，提醒一下自己剩4天了</p>
+<div class="custom-alert-box"><div class="alert-title">🔥 離木琴大師班</div><ol><l>剩下4天</l></ol></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[MAYDAY]]></title>
             <link>https://aa10200809-svg.github.io/blog/7/11 MAYDAY</link>
