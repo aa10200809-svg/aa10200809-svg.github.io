@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aa10200809-svg.github.io/blog</id>
     <title>My Site Blog</title>
-    <updated>2026-07-13T00:00:00.000Z</updated>
+    <updated>2026-07-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aa10200809-svg.github.io/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://aa10200809-svg.github.io/img/logo2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[欸 加油]]></title>
+        <id>https://aa10200809-svg.github.io/blog/7/14</id>
+        <link href="https://aa10200809-svg.github.io/blog/7/14"/>
+        <updated>2026-07-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🔥 離木琴大師班]]></summary>
+        <content type="html"><![CDATA[<div class="custom-alert-box"><div class="alert-title">🔥 離木琴大師班</div><ol><l>剩下1天</l></ol></div>
+<p>幹 我多久沒練木琴了<br>
+唉唉 <br></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[此生第一場演唱會]]></title>
         <id>https://aa10200809-svg.github.io/blog/7/13 此生第一場演唱會</id>
