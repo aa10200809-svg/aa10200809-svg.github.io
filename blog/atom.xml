@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aa10200809-svg.github.io/blog</id>
     <title>My Site Blog</title>
-    <updated>2026-07-22T00:00:00.000Z</updated>
+    <updated>2026-07-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aa10200809-svg.github.io/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://aa10200809-svg.github.io/img/logo2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[破防]]></title>
+        <id>https://aa10200809-svg.github.io/blog/my-blog-7/23</id>
+        <link href="https://aa10200809-svg.github.io/blog/my-blog-7/23"/>
+        <updated>2026-07-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[破防]]></summary>
+        <content type="html"><![CDATA[<p>好啦，也不是只有今天破防<br></p>
+<p>不知道該說什麼了欸<br>
+沒打算在這網站袒露心聲，不過也不會有人看我網站是吧 哈哈哈哈哈</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[頭痛怎麼辦]]></title>
         <id>https://aa10200809-svg.github.io/blog/my-blog-7/22</id>
@@ -22,15 +32,14 @@
         <link href="https://aa10200809-svg.github.io/blog/my-blog-7/21"/>
         <updated>2026-07-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[台北亂晃]]></summary>
-        <content type="html"><![CDATA[<p>上完鋼琴課後，就跑去台北閒晃，晃一晃就到了APPLE直營店，裡面很讚，可以體驗很多產品，我買了單邊耳機，大概＄2200超貴，問我媽他說可以，呵呵呵終於可以耳機了，這世界太吵了，需要五月天的歌來讓我逃離世界。</p>
+        <content type="html"><![CDATA[<p>上完鋼琴課後，就跑去台北閒晃，晃一晃就到了APPLE直營店，裡面很讚，可以體驗很多產品，我買了單邊耳機，大概＄2200超貴，問我媽他說可以，呵呵呵終於有耳機了，這世界太吵了，需要五月天的歌來讓我逃離世界。</p>
 <p>買完後就到處看看，看到Arcade想說弄弄看能不能玩遊戲，但我不會連，所以就拿來放音樂，（哈哈超好笑，放五月天自傳的轉眼，慶祝自傳專輯10週年了！啊然後按音量鍵沒反應欸，是不是不開放條音量，可惜了不然本來想開最大聲，炸裂Apple店</p>
 <br>
 <p>唉最近真的唉唉嗯嗯嗯 <br></p>
 <br>
 <br>
 <br>
-<p>唉如果真的一直維持這樣的話，那好像活著也沒什麼意義</p>
-<p>啊幹  我唉懼好像是因為偵測到我的文字，含有自殺、自殘、飲食失調傾向，所以封鎖我</p>
+<p>然後我唉懼好像是因為偵測到我的文字有問題，所以封鎖我</p>
 <p>嗯哼 的確，看了Instagram系統偵測到有問題的文字，我之前打了「現在真的很痛苦 想死的那種」其實早就忘了什麼時候打過這段文字的，哎呀 隨便啦，只能認了</p>
 <p>啊想不到唉懼還蠻貼心的，還問遇到什麼困難，可透過多方方法取得協助，下面選項有一個是：聯絡朋友（尋找你信任的人）點下去直接跳到訊息頁面，幹真的覺得莫名好笑，我哪來的朋友？？哈哈還信任的人？好啦，晚安啊～</p>]]></content>
     </entry>
@@ -183,10 +192,6 @@
         <summary type="html"><![CDATA[此生第一場演唱會]]></summary>
         <content type="html"><![CDATA[<p>很多事真的要親身經歷過，才知道。<br></p>
 <p>一進到大巨蛋，坐在椅子上，覺得很不真實。說真的前幾天還擔心會不會放不開之類的，嗯畢竟我就是這樣...但音樂響起的那一刻，我大聲的唱，真的好喜歡這樣，大家一起大合唱的感覺，好嗨好感動，看著壯觀的燈光效果，驚豔的舞美設計，好興奮！<br></p>
-<p>然後啊...<br></p>
-<p>我啊 真的害怕離別，我想每個人都害怕吧...<br>
-有時候真的盡全力了，想辦法避免發生這種狀況，可是...最終依然是如此啊...我真的改變不了<br>
-這世界上沒有時光機，一切都是太美好的想像，但那又怎樣呢？反正已經輸了、已經失去了，在說什麼也回不來了吧<br></p>
 <p>下面放幾句五月天歌詞好了...<br></p>
 <hr>
 <p>我們 那麼甜那麼美那麼相信<br>
@@ -220,9 +225,7 @@
 其實不願告別<br>
 其實我心中 依然想念<!-- -->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- -->－終於結束的起點<br></p>
 <hr>
-<p>嗯...<br>
-能不能不要離開 不要不要不要...不要不理我啊<br>
-我想為愛而活，付出所有所有 為了你...直到宇宙盡頭</p>]]></content>
+<p>嗯...<br></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[...]]></title>
