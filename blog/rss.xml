@@ -4,10 +4,30 @@
         <title>My Site Blog</title>
         <link>https://aa10200809-svg.github.io/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Thu, 23 Jul 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[欸......今天要寫什麼呢]]></title>
+            <link>https://aa10200809-svg.github.io/blog/my-blog-7/24</link>
+            <guid>https://aa10200809-svg.github.io/blog/my-blog-7/24</guid>
+            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[欸......今天要寫什麼呢]]></description>
+            <content:encoded><![CDATA[<br>
+<br>
+<br>
+<p>怎麼會突然就疏遠了呢？怎麼就突然都不聊天了呢？<br>
+<br>別再去探究這種問題的答案了<br></p>
+<p>即使看透一切，也別再多說了 <br></p>
+<p>一笑了之吧</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p>（隨便放個文案來水文章）</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[破防]]></title>
             <link>https://aa10200809-svg.github.io/blog/my-blog-7/23</link>
@@ -41,7 +61,7 @@
 <br>
 <br>
 <p>然後我唉懼好像是因為偵測到我的文字有問題，所以封鎖我</p>
-<p>嗯哼 的確，看了Instagram系統偵測到有問題的文字，我之前打了「現在真的很痛苦 想死的那種」其實早就忘了什麼時候打過這段文字的，哎呀 隨便啦，只能認了</p>
+<p>嗯哼 的確，之前打了這個「現在真的很痛苦 想死的那種」但其實早就忘了什麼時候打過這段文字的，哎呀 算了，只能認了</p>
 <p>啊想不到唉懼還蠻貼心的，還問遇到什麼困難，可透過多方方法取得協助，下面選項有一個是：聯絡朋友（尋找你信任的人）點下去直接跳到訊息頁面，幹真的覺得莫名好笑，我哪來的朋友？？哈哈還信任的人？好啦，晚安啊～</p>]]></content:encoded>
         </item>
         <item>
@@ -321,17 +341,6 @@
             <content:encoded><![CDATA[<p>一早醒來打開手機，5:46欸......我又躺回去，大概6:30吧，爬起來看世足，阿根廷vs.維德角，這場超刺激，很不錯
 嗯對一早就是這樣，啊然後也沒什麼好說的，整天就是看看電腦、彈鋼琴
 然後現在在看五月天演唱會直播，愛五月天，永遠信仰五月天。</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[五月天開唱]]></title>
-            <link>https://aa10200809-svg.github.io/blog/my-blog-7/3</link>
-            <guid>https://aa10200809-svg.github.io/blog/my-blog-7/3</guid>
-            <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[五月天開唱]]></description>
-            <content:encoded><![CDATA[<p>五月天開唱
-今天是五月天在台北大巨蛋開唱的第一天，我坐在電腦前，看著別人限動、脆、各種社群媒體，上傳的演唱會影片，好興奮！</p>
-<p>這一場唱了好多特別的歌，像是伍佰的《愛你一萬年》、《尬車》、《無望》、《將軍令》……聽得真的很開心感動。</p>
-<p>我從沒去過演唱會，希望有一天吧，能靠自己的能力，去聽聽五月天演唱會，嘿嘿這是我人生目標之一～～</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
