@@ -2,11 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aa10200809-svg.github.io/blog</id>
     <title>My Site Blog</title>
-    <updated>2026-07-25T00:00:00.000Z</updated>
+    <updated>2026-07-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aa10200809-svg.github.io/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://aa10200809-svg.github.io/img/logo2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[如何開心]]></title>
+        <id>https://aa10200809-svg.github.io/blog/my-blog-7/26</id>
+        <link href="https://aa10200809-svg.github.io/blog/my-blog-7/26"/>
+        <updated>2026-07-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[如何開心]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="哈哈哈">哈哈哈<a href="https://aa10200809-svg.github.io/blog/my-blog-7/26#%E5%93%88%E5%93%88%E5%93%88" class="hash-link" aria-label="Direct link to 哈哈哈" title="Direct link to 哈哈哈" translate="no">​</a></h3>
+<p>這什麼標題啊 幹好笑欸<br>
+開心喔... 要開心很簡單啊 笑啊<br>
+只要你永遠保持笑容，別人就不會覺得你在生氣或難過，我一直都是這樣面對人的</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="之前有一次">之前有一次<a href="https://aa10200809-svg.github.io/blog/my-blog-7/26#%E4%B9%8B%E5%89%8D%E6%9C%89%E4%B8%80%E6%AC%A1" class="hash-link" aria-label="Direct link to 之前有一次" title="Direct link to 之前有一次" translate="no">​</a></h3>
+<p>同學問我感情方面的事情，他說他想了很久，一直開不了口，怕我會黑臉，當時笑笑的回答他的問題，但後來覺得有點煩，就沒有笑容，他馬上發現，然後和我說：<strong>欸 你要笑啦，不然會以為你生氣了</strong></p>
+<br>
+<p>呵呵 只是覺得  如果知道我會不高興 那幹嘛提  然後嗯...笑很重要<br>
+所以我想說的是 笑容＝開心 基本上大眾習慣這樣認為</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="雖然這篇標題是-如何開心">雖然這篇標題是 <strong>如何</strong>開心<a href="https://aa10200809-svg.github.io/blog/my-blog-7/26#%E9%9B%96%E7%84%B6%E9%80%99%E7%AF%87%E6%A8%99%E9%A1%8C%E6%98%AF-%E5%A6%82%E4%BD%95%E9%96%8B%E5%BF%83" class="hash-link" aria-label="Direct link to 雖然這篇標題是-如何開心" title="Direct link to 雖然這篇標題是-如何開心" translate="no">​</a></h3>
+<p>但我並不想講這個，<strong>與其說如何讓自己開心，不如學習如何裝的讓別人覺得你很開心，這還比較實用</strong></p>
+<br>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="另外">另外<a href="https://aa10200809-svg.github.io/blog/my-blog-7/26#%E5%8F%A6%E5%A4%96" class="hash-link" aria-label="Direct link to 另外" title="Direct link to 另外" translate="no">​</a></h3>
+<p>我覺得很多時候，傷心或失望到極致，面對別人時，第一反應是笑欸  <br>
+因為真的無力改變，只能用個最無攻擊力的表情，先把別人應付過去，不管自己情緒是什麼，畢竟不能在外面展現自己的脆弱</p>
+<br>
+<p>好啦 這是在網路上隨意抄來的主題，以上都是我個人見解、經驗，各位參考就好，不用一定要認同</p>
+<p>謝謝 我先睡了</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[聽我彈琴]]></title>
         <id>https://aa10200809-svg.github.io/blog/my-blog-7/25</id>
@@ -329,13 +354,5 @@
 覺得蠻幸運的，我剛剛好讀竹中，也聽到江老師演講
 聽完真的覺得江老師很辛苦，但我想各行各業都非常不容易，錢真的不好賺，再過幾年我就成年了，是時候也該面對出社會找工作這件事了...</p>
 <iframe width="460" height="350" src="https://www.youtube.com/embed/SZ89nWmJOTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暑假]]></title>
-        <id>https://aa10200809-svg.github.io/blog/my-blog-7/5</id>
-        <link href="https://aa10200809-svg.github.io/blog/my-blog-7/5"/>
-        <updated>2026-07-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[暑假]]></summary>
-        <content type="html"><![CDATA[<p>暑假第一周也結束了，最近開始嘗試新東西，但真的什麼都不會，都做不出來，搞得很累，但還是想再堅持一下吧，我...不想這麼沒用...</p>]]></content>
     </entry>
 </feed>
