@@ -16,7 +16,7 @@
             <description><![CDATA[MD/HTML 基礎篇]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="前言">前言<a href="https://aa10200809-svg.github.io/blog/my-blog-7/31#%E5%89%8D%E8%A8%80" class="hash-link" aria-label="Direct link to 前言" title="Direct link to 前言" translate="no">​</a></h2>
 <p>在使用 Docusaurus 建立文件或部落格時，最常用到的就是 Markdown 語法。<br>
-這篇文章為介紹最常用的 Markdown 語法、Docusaurus 特有語法以及基礎 HTML應用。<br>
+這篇文章介紹最常用的 Markdown 語法、Docusaurus 特有語法以及基礎 HTML應用。<br>
 將來有機會的話，會分享CSS或MDX，利用客製化、樣式調整來讓頁面更豐富，敬請期待！！</p>
 <hr>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="本文目錄">本文目錄<a href="https://aa10200809-svg.github.io/blog/my-blog-7/31#%E6%9C%AC%E6%96%87%E7%9B%AE%E9%8C%84" class="hash-link" aria-label="Direct link to 本文目錄" title="Direct link to 本文目錄" translate="no">​</a></h2>
