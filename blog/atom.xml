@@ -53,7 +53,7 @@
 <li class="">無序列表</li>
 </ul><ol>
 <li class="">有序列表</li>
-<li class="">無序列表</li>
+<li class="">有序列表</li>
 </ol><ul class="contains-task-list containsTaskList_mC6p">
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->（未完成）</li>
 <li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->（已完成）</li>
