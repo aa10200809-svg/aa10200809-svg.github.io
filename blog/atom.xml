@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aa10200809-svg.github.io/blog</id>
     <title>My Site Blog</title>
-    <updated>2026-07-31T00:00:00.000Z</updated>
+    <updated>2026-08-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aa10200809-svg.github.io/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://aa10200809-svg.github.io/img/logo2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[近況]]></title>
+        <id>https://aa10200809-svg.github.io/blog/my-blog-8/3</id>
+        <link href="https://aa10200809-svg.github.io/blog/my-blog-8/3"/>
+        <updated>2026-08-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[近況]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="最近稍微忙碌一點">最近稍微忙碌一點<a href="https://aa10200809-svg.github.io/blog/my-blog-8/3#%E6%9C%80%E8%BF%91%E7%A8%8D%E5%BE%AE%E5%BF%99%E7%A2%8C%E4%B8%80%E9%BB%9E" class="hash-link" aria-label="Direct link to 最近稍微忙碌一點" title="Direct link to 最近稍微忙碌一點" translate="no">​</a></h3>
+<p>以下是我這幾天過的生活：</p>
+<table><thead><tr><th>時間</th><th>行程</th><th>備注</th></tr></thead><tbody><tr><td>8:50</td><td>起床</td><td>鬧鐘設8:30但..嗯對 都會賴床</td></tr><tr><td>9:20-12:00</td><td>工作</td><td>中間會適時休息</td></tr><tr><td>12:00-13:00</td><td>煮飯、吃飯</td><td>運氣好會有便當，就不用煮</td></tr><tr><td>13:00-13:30</td><td>休息</td><td></td></tr><tr><td>13:30-17:30</td><td>工作</td><td>不一定是17.30 但就是晚餐來的時候下班</td></tr><tr><td>18:30-21:30</td><td>工作</td><td>中間會適時休息</td></tr><tr><td>21:30-23:00</td><td>休息、打電腦</td><td></td></tr><tr><td>23:00</td><td>洗澡</td><td></td></tr><tr><td>24:30</td><td>上床睡覺</td><td></td></tr></tbody></table>
+<p>我想這樣的生活，會持續到開學，大家的暑假生活都是如何呢？歡迎寫信告訴我
+<code>aa10200809@gmail.com</code></p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="最近的煩惱">最近的煩惱<a href="https://aa10200809-svg.github.io/blog/my-blog-8/3#%E6%9C%80%E8%BF%91%E7%9A%84%E7%85%A9%E6%83%B1" class="hash-link" aria-label="Direct link to 最近的煩惱" title="Direct link to 最近的煩惱" translate="no">​</a></h3>
+<p>還在思考MDX、實戰的教學要怎麼寫，有點卡關</p>
+<p>另外，這週四8/6要去台北聽音樂會，那個地方從來沒去過，還沒查資料，我覺得會迷路🥲<br>
+明天來做功課!!</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MD/HTML 基礎篇]]></title>
         <id>https://aa10200809-svg.github.io/blog/my-blog-7/31</id>
@@ -477,21 +493,5 @@
         <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="713行程">7/13行程<a href="https://aa10200809-svg.github.io/blog/my-blog-7/11#713%E8%A1%8C%E7%A8%8B" class="hash-link" aria-label="Direct link to 7/13行程" title="Direct link to 7/13行程" translate="no">​</a></h2>
 <table><thead><tr><th style="text-align:left">時間</th><th style="text-align:left">行程</th><th style="text-align:left">注意</th></tr></thead><tbody><tr><td style="text-align:left">11:47</td><td style="text-align:left">搭乘台鐵</td><td style="text-align:left"></td></tr><tr><td style="text-align:left">14:14</td><td style="text-align:left">抵達台北</td><td style="text-align:left"></td></tr><tr><td style="text-align:left">14:30</td><td style="text-align:left">坐捷運</td><td style="text-align:left">板南線（往南港）國父紀念館</td></tr><tr><td style="text-align:left">14:40</td><td style="text-align:left">松山文創園區</td><td style="text-align:left"></td></tr><tr><td style="text-align:left">17:00</td><td style="text-align:left">大巨蛋</td><td style="text-align:left">買螢光棒、拿票</td></tr><tr><td style="text-align:left">18:30</td><td style="text-align:left">大巨蛋</td><td style="text-align:left">進場</td></tr></tbody></table>
 <p>大概簡單規劃一下，反正就是到台北後，搭捷運去大巨蛋那裡，然後松山文創園區就在巨蛋旁邊，我是覺得人一定很多，附近走走看看就好。沒特別想買什麼，應該只會買螢光棒～</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[收到一則訊息]]></title>
-        <id>https://aa10200809-svg.github.io/blog/7/10 收到一則訊息</id>
-        <link href="https://aa10200809-svg.github.io/blog/7/10 收到一則訊息"/>
-        <updated>2026-07-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今天收到一則訊息]]></summary>
-        <content type="html"><![CDATA[<p>今天收到一則訊息<br>
-:「欸 7/13要不要看五月天演唱會」<br>
-:「我沒錢也沒票好嗎」<br>
-:「我有一張多的 是別人送的不用錢」<br>
-:「幹 真假」「那我想去」<br></p>
-<p>所以我就傳訊息給我媽了，不敢打電話問他，因為真不知道該怎麼講，我很不會談判<br>
-總之最後他答應可以去！！ 好開心啊，而且還是尾場，可我完全不知道，去演唱會要遵守什麼事情？或要帶什麼嗎？提早幾點去比較好？話說我也沒螢光棒，現場應該有賣吧？明天或後天來規劃一下行程好了。<br></p>
-<p>真的很謝謝那位傳訊息給我的朋友，也謝謝家人，願意花錢讓我去。<br>
-本來人生規劃是：等五月天寫完最後一張專輯，回來開演唱會時，我要用自己賺來的錢，去看第一場演唱會，結果沒想到4天後就是我的第一場了...但不是用自己努力換來的，總有一天，一定要靠自己！！</p>]]></content>
     </entry>
 </feed>
