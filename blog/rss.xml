@@ -9,9 +9,30 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <link>https://aa10200809-svg.github.io/blog/2026/8/10/</link>
-            <guid>https://aa10200809-svg.github.io/blog/2026/8/10/</guid>
+            <title><![CDATA[Cryptomator]]></title>
+            <link>https://aa10200809-svg.github.io/blog/my-blog-8/13</link>
+            <guid>https://aa10200809-svg.github.io/blog/my-blog-8/13</guid>
             <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cryptomator]]></description>
+            <content:encoded><![CDATA[<p>大家是否曾經懷疑那些傳到雲端的檔案，隱私真的安全嗎？<br>
+又或者你有沒有不想給他人偷看的秘密照片、影片或文件？</p>
+<p>這邊，推薦一款加密工具： Cryptomator</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="cryptomator-是什麼">Cryptomator 是什麼？<a href="https://aa10200809-svg.github.io/blog/my-blog-8/13#cryptomator-%E6%98%AF%E4%BB%80%E9%BA%BC" class="hash-link" aria-label="Direct link to Cryptomator 是什麼？" title="Direct link to Cryptomator 是什麼？" translate="no">​</a></h3>
+<p>這是來自德國開源的加密工具</p>
+<p>運作原理：<br>
+在本地加密 → 將加密後的保險箱資料夾放在雲端同步資料夾<br>
+而雲端同步的永遠只有亂碼</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="為什麼選擇-cryptomator">為什麼選擇 Cryptomator？<a href="https://aa10200809-svg.github.io/blog/my-blog-8/13#%E7%82%BA%E4%BB%80%E9%BA%BC%E9%81%B8%E6%93%87-cryptomator" class="hash-link" aria-label="Direct link to 為什麼選擇 Cryptomator？" title="Direct link to 為什麼選擇 Cryptomator？" translate="no">​</a></h3>
+<p>1.<strong>開源且無須註冊</strong>:不需有帳號，密碼掌握在自己手上。<br>
+2.<strong>檔名與結構全數加密</strong>：點開看到的只是一堆亂碼和無意義的資料夾，無法推斷你放了什麼資料。<br>
+3.<strong>單一檔案獨立加密</strong>:修改小檔時只需同步該檔案，不會觸發全盤重新上傳。<br>
+4.<strong>電腦版完全免費</strong>(但手機版好像要錢)</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="怎麼用">怎麼用<a href="https://aa10200809-svg.github.io/blog/my-blog-8/13#%E6%80%8E%E9%BA%BC%E7%94%A8" class="hash-link" aria-label="Direct link to 怎麼用" title="Direct link to 怎麼用" translate="no">​</a></h3>
+<p>1.<a href="https://cryptomator.org/" target="_blank" rel="noopener noreferrer" class="">安裝</a><br>
+2.建立加密檔案庫<br>
+3.設定密碼（建議儲存Recovery Key 別相信自己大腦）。<br>
+4.解鎖保險箱，將秘密文件放入掛載的虛擬硬碟中。</p>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="快去試試看吧">快去試試看吧<a href="https://aa10200809-svg.github.io/blog/my-blog-8/13#%E5%BF%AB%E5%8E%BB%E8%A9%A6%E8%A9%A6%E7%9C%8B%E5%90%A7" class="hash-link" aria-label="Direct link to 快去試試看吧" title="Direct link to 快去試試看吧" translate="no">​</a></h4>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MDX 實戰篇]]></title>
