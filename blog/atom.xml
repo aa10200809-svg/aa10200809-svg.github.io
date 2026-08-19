@@ -2,11 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aa10200809-svg.github.io/blog</id>
     <title>My Site Blog</title>
-    <updated>2026-08-13T00:00:00.000Z</updated>
+    <updated>2026-08-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aa10200809-svg.github.io/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://aa10200809-svg.github.io/img/logo2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[vorssaint]]></title>
+        <id>https://aa10200809-svg.github.io/blog/my-blog-8/19</id>
+        <link href="https://aa10200809-svg.github.io/blog/my-blog-8/19"/>
+        <updated>2026-08-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[vorssaint]]></summary>
+        <content type="html"><![CDATA[<p>今天來介紹一款超厲害的工具</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="vorssaint">vorssaint<a href="https://aa10200809-svg.github.io/blog/my-blog-8/19#vorssaint" class="hash-link" aria-label="Direct link to vorssaint" title="Direct link to vorssaint" translate="no">​</a></h2>
+<p>這是一款完全<strong>免費</strong>、<strong>開源</strong>的macOS選單列工具，裡面有非常多的功能，例如:系統監控、保持 Mac 喚醒、應用程式音量控制、快速視窗切換、滑鼠滾輪方向調整、等等。</p>
+<p>這邊介紹幾個</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1截圖錄製螢幕">1.截圖、錄製螢幕<a href="https://aa10200809-svg.github.io/blog/my-blog-8/19#1%E6%88%AA%E5%9C%96%E9%8C%84%E8%A3%BD%E8%9E%A2%E5%B9%95" class="hash-link" aria-label="Direct link to 1.截圖、錄製螢幕" title="Direct link to 1.截圖、錄製螢幕" translate="no">​</a></h3>
+<p>特別功能：<br></p>
+<ul>
+<li class="">截圖完後可直接編輯</li>
+<li class="">錄製螢幕時可選擇mac聲音或麥克風</li>
+<li class="">螢幕錄製完也可直接編輯，mac聲音和麥克風會是獨立音軌，都可調整</li>
+</ul>
+<p><img decoding="async" loading="lazy" alt="替代文字" src="https://aa10200809-svg.github.io/assets/images/%E7%A4%BA%E7%AF%842-3d80508091e2af35219d20a683593b27.png" width="1876" height="1646" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="替代文字" src="https://aa10200809-svg.github.io/assets/images/%E7%A4%BA%E7%AF%843-28896c4ba46ae62b6da8e780d1fba532.png" width="1876" height="1646" class="img_ev3q"></p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2放射狀選單">2.放射狀選單<a href="https://aa10200809-svg.github.io/blog/my-blog-8/19#2%E6%94%BE%E5%B0%84%E7%8B%80%E9%81%B8%E5%96%AE" class="hash-link" aria-label="Direct link to 2.放射狀選單" title="Direct link to 2.放射狀選單" translate="no">​</a></h3>
+<p>這功能很方面，就是捷徑的概念，可設定成你常開的文件、app、等...
+<img decoding="async" loading="lazy" alt="替代文字" src="https://aa10200809-svg.github.io/assets/images/%E7%A4%BA%E7%AF%844-92973593ad22390c0f27717487c84e88.png" width="648" height="698" class="img_ev3q"></p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3剪貼板">3.剪貼板<a href="https://aa10200809-svg.github.io/blog/my-blog-8/19#3%E5%89%AA%E8%B2%BC%E6%9D%BF" class="hash-link" aria-label="Direct link to 3.剪貼板" title="Direct link to 3.剪貼板" translate="no">​</a></h3>
+<p>特別功能：<br></p>
+<ul>
+<li class="">儲存所有複製過的文字</li>
+<li class="">可釘選複製文字</li>
+</ul>
+<p><img decoding="async" loading="lazy" alt="替代文字" src="https://aa10200809-svg.github.io/assets/images/%E7%A4%BA%E7%AF%845-8e73a24bba8f73d3f3f77a24d644b5ed.png" width="1590" height="1162" class="img_ev3q"></p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4視窗排列">4.視窗排列<a href="https://aa10200809-svg.github.io/blog/my-blog-8/19#4%E8%A6%96%E7%AA%97%E6%8E%92%E5%88%97" class="hash-link" aria-label="Direct link to 4.視窗排列" title="Direct link to 4.視窗排列" translate="no">​</a></h3>
+<p>很多視窗的排列方式，都可設定快捷鍵
+<img decoding="async" loading="lazy" alt="替代文字" src="https://aa10200809-svg.github.io/assets/images/%E7%A4%BA%E7%AF%846-fd48fb495496f38cd133dc6fc3f97fab.png" width="2126" height="1992" class="img_ev3q"></p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="5分區式面板">5.分區式面板<a href="https://aa10200809-svg.github.io/blog/my-blog-8/19#5%E5%88%86%E5%8D%80%E5%BC%8F%E9%9D%A2%E6%9D%BF" class="hash-link" aria-label="Direct link to 5.分區式面板" title="Direct link to 5.分區式面板" translate="no">​</a></h3>
+<p>這裡可以看到很多資訊、設定 如:</p>
+<ul>
+<li class="">設定各 App 的音量大小</li>
+<li class="">CPU、GPU、電池的溫度</li>
+<li class="">目前功耗值、電池健康度</li>
+<li class="">保持喚醒 （讓 Mac不進入睡眠模式）</li>
+<li class="">記憶體資訊</li>
+</ul>
+<p><img decoding="async" loading="lazy" alt="替代文字" src="https://aa10200809-svg.github.io/assets/images/%E7%A4%BA%E7%AF%847-b7e2100e065f5e73509368870d934769.png" width="886" height="892" class="img_ev3q"></p>
+<p>先介紹到這邊，大家快去試試</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="快來安裝看看吧"><a href="https://github.com/vorssaint/vorssaint-utils/releases/tag/v3.3.1" target="_blank" rel="noopener noreferrer" class=""><strong>快來安裝看看吧！</strong></a><a href="https://aa10200809-svg.github.io/blog/my-blog-8/19#%E5%BF%AB%E4%BE%86%E5%AE%89%E8%A3%9D%E7%9C%8B%E7%9C%8B%E5%90%A7" class="hash-link" aria-label="Direct link to 快來安裝看看吧" title="Direct link to 快來安裝看看吧" translate="no">​</a></h3>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cryptomator]]></title>
         <id>https://aa10200809-svg.github.io/blog/my-blog-8/13</id>
@@ -567,15 +612,5 @@
 嗯對  只覺得在新竹上高中一年以來，身邊都是一群手機電腦仔，沒有責備嫌棄的意思，畢竟這就是現代社會趨勢吧，我也一樣，沒事怕尷尬就硬滑手機<br></p>
 <h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="好了-該睡了-晚安">好了 該睡了 晚安<br><a href="https://aa10200809-svg.github.io/blog/my-blog-7/17#%E5%A5%BD%E4%BA%86-%E8%A9%B2%E7%9D%A1%E4%BA%86-%E6%99%9A%E5%AE%89" class="hash-link" aria-label="Direct link to 好了-該睡了-晚安" title="Direct link to 好了-該睡了-晚安" translate="no">​</a></h4>
 <p>好久沒說這句話了...</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[木琴大師班第一天]]></title>
-        <id>https://aa10200809-svg.github.io/blog/my-blog-7/16</id>
-        <link href="https://aa10200809-svg.github.io/blog/my-blog-7/16"/>
-        <updated>2026-07-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[木琴大師班第一天]]></summary>
-        <content type="html"><![CDATA[<p>今天爛爆了<br>
-不意外 意料內<br>
-。</p>]]></content>
     </entry>
 </feed>
