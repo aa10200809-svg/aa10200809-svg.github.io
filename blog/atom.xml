@@ -2,11 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aa10200809-svg.github.io/blog</id>
     <title>My Site Blog</title>
-    <updated>2026-08-19T00:00:00.000Z</updated>
+    <updated>2026-08-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aa10200809-svg.github.io/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://aa10200809-svg.github.io/img/logo2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[量子危機]]></title>
+        <id>https://aa10200809-svg.github.io/blog/my-blog-8/20</id>
+        <link href="https://aa10200809-svg.github.io/blog/my-blog-8/20"/>
+        <updated>2026-08-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[量子危機]]></summary>
+        <content type="html"><![CDATA[<p>今天來介紹「<strong>量子危機</strong>」這本書，這是漫畫的方式，介紹簡單的量子知識</p>
+<p>以下整理介紹這本書提到的的知識:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-什麼是量子">1 什麼是量子？<a href="https://aa10200809-svg.github.io/blog/my-blog-8/20#1-%E4%BB%80%E9%BA%BC%E6%98%AF%E9%87%8F%E5%AD%90" class="hash-link" aria-label="Direct link to 1 什麼是量子？" title="Direct link to 1 什麼是量子？" translate="no">​</a></h3>
+<p>首先，量子並不是一懂具體的物質，它指的是「<strong>物理量的最小不連續單位</strong>」，
+例如我們講「<strong>光量子</strong>」意思就是「<strong>光的能量最小、不可再分割的基本單位</strong>」。</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-量子疊加">2 量子疊加<a href="https://aa10200809-svg.github.io/blog/my-blog-8/20#2-%E9%87%8F%E5%AD%90%E7%96%8A%E5%8A%A0" class="hash-link" aria-label="Direct link to 2 量子疊加" title="Direct link to 2 量子疊加" translate="no">​</a></h3>
+<p>指的是「<strong>在微觀粒子未經觀測前，可以同時處於多種物理狀態的機率組合中</strong>」<br>
+最有名的例子是：<strong>薛丁格的貓</strong><br>
+假想有一個密閉的黑箱子，裡面放了致命的毒藥機關，而機關由一個處於疊加狀態的光子決定是否啟動，我們得打開箱子才可知道毒藥機關是否被啟動。<br>
+而把一隻貓放進去，在沒打開箱子前，照疊加原理來看，機關處於「<strong>既被啟動了、又沒被啟動</strong>」兩種狀態，而這隻貓變處在「<strong>又活又死</strong>」的疊加狀態。</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-量子位元">3 量子位元<a href="https://aa10200809-svg.github.io/blog/my-blog-8/20#3-%E9%87%8F%E5%AD%90%E4%BD%8D%E5%85%83" class="hash-link" aria-label="Direct link to 3 量子位元" title="Direct link to 3 量子位元" translate="no">​</a></h3>
+<p>「位元」是資訊最小單位，用0或1來表示，而利用第2點所說的<strong>量子疊加</strong>原理，把「<strong>同時存在兩種不同狀態的量子系統</strong>」<strong>當作位元使用</strong>
+，讓兩種狀態分別代表0和1來儲存訊息。</p>
+<p>利用量子位元建構的電腦，可運算比傳統位元更有效率。</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-量子糾纏">4 量子糾纏<a href="https://aa10200809-svg.github.io/blog/my-blog-8/20#4-%E9%87%8F%E5%AD%90%E7%B3%BE%E7%BA%8F" class="hash-link" aria-label="Direct link to 4 量子糾纏" title="Direct link to 4 量子糾纏" translate="no">​</a></h3>
+<p>指「<strong>兩個以上的量子粒子，因某些原因產生關聯，使彼此行為互相影響</strong>」<br></p>
+<p>舉例來說：有兩個粒子有50%朝⬆️50%朝⬇️的機率，在還沒進行觀測前，兩個粒子都是既朝上又朝下，這概念和之前提到第二點<strong>量子疊加</strong>的意思一樣
+「在微觀粒子未經觀測前，同時存在各種可能狀態」<br>即使相距光年之遙，只要觀測其中一個粒子的狀態（例如朝上⬆️），另一個粒子的狀態就會瞬間確定（瞬間朝下⬇️）所以<strong>只要測量其中一個狀態，另一個不須經過任何測量時間，會瞬間呈現與第一個對應的狀態</strong></p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-量子穿隧">5 量子穿隧<a href="https://aa10200809-svg.github.io/blog/my-blog-8/20#5-%E9%87%8F%E5%AD%90%E7%A9%BF%E9%9A%A7" class="hash-link" aria-label="Direct link to 5 量子穿隧" title="Direct link to 5 量子穿隧" translate="no">​</a></h3>
+<p>巨觀世界裡，當一顆球遇到一面牆，球會無法穿越牆，被反彈回來，
+但在微觀量子世界裡，它有一定的機率可以穿牆而過。「<strong>一個粒子即使所具備的能量不足以跨過障礙，它仍有小機率會出現在障礙物的另一邊</strong>」這就是量子穿隧效應。
+但要是障礙無限高或無限厚的話，那粒子還是過不去的。</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="6-量子加密通訊">6 量子加密通訊<a href="https://aa10200809-svg.github.io/blog/my-blog-8/20#6-%E9%87%8F%E5%AD%90%E5%8A%A0%E5%AF%86%E9%80%9A%E8%A8%8A" class="hash-link" aria-label="Direct link to 6 量子加密通訊" title="Direct link to 6 量子加密通訊" translate="no">​</a></h3>
+<p>量子加密並非用來傳送資訊本身，而是用來傳輸「<strong>密鑰</strong>」。<br>
+利用「量子疊加」這個特性，傳送者把密鑰的相關資訊，已<strong>量子態</strong>傳給接收者，一但有人在中途竊取資訊，量子態就會發生變化，接收者和傳送者核對密鑰時，就會發現不符，而知道有人竊聽並廢棄該次傳輸。</p>
+<hr>
+<p>以上，就是這本書的知識，不會太難吧！我覺得還蠻有趣的，希望大家看完不要睡著</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[vorssaint]]></title>
         <id>https://aa10200809-svg.github.io/blog/my-blog-8/19</id>
@@ -586,31 +620,5 @@
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="我先睡啦">我先睡啦<a href="https://aa10200809-svg.github.io/blog/my-blog-7/18#%E6%88%91%E5%85%88%E7%9D%A1%E5%95%A6" class="hash-link" aria-label="Direct link to 我先睡啦" title="Direct link to 我先睡啦" translate="no">​</a></h3>
 <p>啊對<br>
 預祝明天演出順利，不要出包！！</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[木琴大師班第二天]]></title>
-        <id>https://aa10200809-svg.github.io/blog/my-blog-7/17</id>
-        <link href="https://aa10200809-svg.github.io/blog/my-blog-7/17"/>
-        <updated>2026-07-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[木琴大師班第二天]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="好-現在已經1149">好 現在已經11:49<a href="https://aa10200809-svg.github.io/blog/my-blog-7/17#%E5%A5%BD-%E7%8F%BE%E5%9C%A8%E5%B7%B2%E7%B6%931149" class="hash-link" aria-label="Direct link to 好 現在已經11:49" title="Direct link to 好 現在已經11:49" translate="no">​</a></h2>
-<p>練團練到11點，明天得早起，不過沒事 還是得來檢討<br>
-呃 好 來吧<br></p>
-<p>我覺得這首曲子打起來是很沈重的，曲名：samsara意思是「輪迴」大概是指生命在生死、煩惱、痛苦中不斷循環的過程。我是想把這陣子內心的孤單、痛苦毫不保留傳給底下觀眾啦，只要我是這麼想的，好像有點太黑暗。<br></p>
-<p>我打完後，老師問我覺得這首曲子感覺是什麼、打完覺得怎樣，啊我就是很討厭回答這種問題，當下就支支吾吾，後來仔細想了想，以上大概是我心中的想法吧。<br></p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="然後就開始修技巧語法讓我們繼續看下去">然後就開始修技巧、語法，讓我們繼續看下去<br><a href="https://aa10200809-svg.github.io/blog/my-blog-7/17#%E7%84%B6%E5%BE%8C%E5%B0%B1%E9%96%8B%E5%A7%8B%E4%BF%AE%E6%8A%80%E5%B7%A7%E8%AA%9E%E6%B3%95%E8%AE%93%E6%88%91%E5%80%91%E7%B9%BC%E7%BA%8C%E7%9C%8B%E4%B8%8B%E5%8E%BB" class="hash-link" aria-label="Direct link to 然後就開始修技巧語法讓我們繼續看下去" title="Direct link to 然後就開始修技巧語法讓我們繼續看下去" translate="no">​</a></h3>
-<p>1.開頭音色再沈重一些，倒第7小節前不要大聲<br>
-2.棒子別揮太高，避免錯音太多<br>
-3.接到第二段時，銜接要讓觀眾知道你要做什麼，斷要斷乾淨<br>
-4.第二段的滾奏，呃 好難用字描述，反正就唱和打法改一下<br>
-5.Agitato那段右手高音旋律，不要太強調，帶過就好，整段算是銜接段，輕鬆大聲打就行<br></p>
-<p>啊對 老師有說要想想哪段是自己覺得整首最高峰、最重要的一段，因為整首曲子很長，啊我是覺得在Agitato後一段，畢竟譜上寫FF，整首力度最強，最激動的一段，也最有節奏性，所以Agitato別太用力，不然會沒感覺，只覺得吵。<br></p>
-<p>嗯 差不多就是這樣 明天9:30到10:00可以練琴，要去試琴棒 主要試Jean Geoffroy白、藍、橘系列的，因為有金錢限制，所以現在有點苦惱，唉反正明天再說。<br></p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="剛在查資料現在已經1230了-">剛在查資料，現在已經12:30了 <br><a href="https://aa10200809-svg.github.io/blog/my-blog-7/17#%E5%89%9B%E5%9C%A8%E6%9F%A5%E8%B3%87%E6%96%99%E7%8F%BE%E5%9C%A8%E5%B7%B2%E7%B6%931230%E4%BA%86-" class="hash-link" aria-label="Direct link to 剛在查資料現在已經1230了-" title="Direct link to 剛在查資料現在已經1230了-" translate="no">​</a></h3>
-<p>沒空整理今天聽的作曲講座筆記了，不過我懷疑自己做的筆記，我都看不懂，呵呵 畢竟全英文演講，哎呀呀 盡力了啦<br></p>
-<p>明天再說 晚上蠻開心的 練室內樂 因為好久沒有和一群熱愛打擊又認真的同學，一起演奏了<br>
-嗯對  只覺得在新竹上高中一年以來，身邊都是一群手機電腦仔，沒有責備嫌棄的意思，畢竟這就是現代社會趨勢吧，我也一樣，沒事怕尷尬就硬滑手機<br></p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="好了-該睡了-晚安">好了 該睡了 晚安<br><a href="https://aa10200809-svg.github.io/blog/my-blog-7/17#%E5%A5%BD%E4%BA%86-%E8%A9%B2%E7%9D%A1%E4%BA%86-%E6%99%9A%E5%AE%89" class="hash-link" aria-label="Direct link to 好了-該睡了-晚安" title="Direct link to 好了-該睡了-晚安" translate="no">​</a></h4>
-<p>好久沒說這句話了...</p>]]></content>
     </entry>
 </feed>
