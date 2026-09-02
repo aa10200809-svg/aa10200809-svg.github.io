@@ -4,10 +4,26 @@
         <title>My Site Blog</title>
         <link>https://aa10200809-svg.github.io/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Tue, 01 Sep 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[室內樂]]></title>
+            <link>https://aa10200809-svg.github.io/blog/my-blog-9/2</link>
+            <guid>https://aa10200809-svg.github.io/blog/my-blog-9/2</guid>
+            <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[室內樂]]></description>
+            <content:encoded><![CDATA[<p>這學期室內樂課，是新的老師，聽說上學期的老師，是被學校換掉的...因為我們室內樂成果太差，學校覺得這老師很不好...純粹聽說啦</p>
+<p>個人是覺得上學期的老師，教得很爛，他會一直聊天，啊聊一聊就聊到我的私事，同學又會在旁邊幫腔，公開討論我個人私事，公開點評、嘲笑...</p>
+<p>說真的啦！大家私下要怎麼嘲笑我的感情狀況，我完全不在意，要怎麼講都可以，但至少在我面前，給點尊重馬，我又沒去窺探你們的隱私，<strong>這是我以前的想法</strong><br></p>
+<p>不過現在啊，我已經看開了 被笑就被笑吧！你們要當眾說我也沒差了，不在意了 哈哈哈</p>
+<p>反正我什麼都沒了！如果你們知道我現在在做什麼，一定都會瞧不起我 <br>
+我已經沒救了，哈哈哈哈</p>
+<br>
+<small>這一篇是完完全全的廢文，因為睡不著，然後愛人已經睡了，呵不過就算他醒著，也不會陪我聊天、看訊息</small>
+<small>話說今天心跳超快，在看到的那一刻...</small>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[開學]]></title>
             <link>https://aa10200809-svg.github.io/blog/my-blog-9/1</link>
@@ -685,16 +701,6 @@
 推薦給大家</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k9MO8oj4X5U?si=_Evh-5LA8LmSqPKG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 <p>士杰影片真的很好笑，看了很多部 讚讚喜歡</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[破防]]></title>
-            <link>https://aa10200809-svg.github.io/blog/my-blog-7/23</link>
-            <guid>https://aa10200809-svg.github.io/blog/my-blog-7/23</guid>
-            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[破防]]></description>
-            <content:encoded><![CDATA[<p>好啦，也不是只有今天破防<br></p>
-<p>不知道該說什麼了欸<br>
-沒打算在這網站袒露心聲，不過也不會有人看我網站是吧 哈哈哈哈哈</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
