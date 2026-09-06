@@ -4,10 +4,52 @@
         <title>My Site Blog</title>
         <link>https://aa10200809-svg.github.io/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Sat, 05 Sep 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Rikaido 你到底有多懂我？]]></title>
+            <link>https://aa10200809-svg.github.io/blog/my-blog-9/6</link>
+            <guid>https://aa10200809-svg.github.io/blog/my-blog-9/6</guid>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rikaido 你到底有多懂我？]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="一早醒來">一早醒來<a href="https://aa10200809-svg.github.io/blog/my-blog-9/6#%E4%B8%80%E6%97%A9%E9%86%92%E4%BE%86" class="hash-link" aria-label="Direct link to 一早醒來" title="Direct link to 一早醒來" translate="no">​</a></h3>
+<p>今天醒來，發現大家限動都在發這個連結 <kbd>RIKAIDO.ME</kbd> 這是一個測驗遊戲，大家可以點進去看看</p>
+<p><a href="https://rikaido.me/tw/" target="_blank" rel="noopener noreferrer" class="">遊戲連結</a></p>
+<p>總之就是你先答完題目，再給你朋友填，讓他猜你的答案是什麼，分數越高就越懂你的一個遊戲</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="坐車">坐車<a href="https://aa10200809-svg.github.io/blog/my-blog-9/6#%E5%9D%90%E8%BB%8A" class="hash-link" aria-label="Direct link to 坐車" title="Direct link to 坐車" translate="no">​</a></h3>
+<p>下午坐車時，我就在想這遊戲可以怎麼做到滿分？<br>
+就做兩次啊！呵呵呵 然後我又睡了</p>
+<p>後來實在太無聊，開電腦點了某一位朋友的測驗連結，點<strong>網頁顯示器</strong> 想說看一下後台，結果發現了這遊戲居然 <strong>API沒加密</strong>！<strong>這是資安低級錯誤欸</strong>！</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="答案">答案<a href="https://aa10200809-svg.github.io/blog/my-blog-9/6#%E7%AD%94%E6%A1%88" class="hash-link" aria-label="Direct link to 答案" title="Direct link to 答案" translate="no">​</a></h3>
+<p>直接和大家說哪裡看得到答案</p>
+<p>我是用safari瀏覽器，如果你用其他瀏覽器可能會不太相同，但找一找應該就會看到了。</p>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="首先">首先<a href="https://aa10200809-svg.github.io/blog/my-blog-9/6#%E9%A6%96%E5%85%88" class="hash-link" aria-label="Direct link to 首先" title="Direct link to 首先" translate="no">​</a></h4>
+<ul>
+<li class="">打開左上角「<strong>開發</strong>」選單中的「<strong>顯示網頁檢閱器</strong>」</li>
+<li class="">開發者面板跳出來後，找到「<strong>網路</strong>」接著按 <kbd>command</kbd> + <kbd>R</kbd> 重整頁面</li>
+<li class="">找到 <strong>documents<!-- -->:batchGet</strong> 點進去</li>
+<li class="">嗯 然後你就會看到答案了 <strong>AABBABABAB</strong>這東西就是答案</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="解答怎麼會洩漏">解答怎麼會洩漏？<a href="https://aa10200809-svg.github.io/blog/my-blog-9/6#%E8%A7%A3%E7%AD%94%E6%80%8E%E9%BA%BC%E6%9C%83%E6%B4%A9%E6%BC%8F" class="hash-link" aria-label="Direct link to 解答怎麼會洩漏？" title="Direct link to 解答怎麼會洩漏？" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="api沒加密">API沒加密<a href="https://aa10200809-svg.github.io/blog/my-blog-9/6#api%E6%B2%92%E5%8A%A0%E5%AF%86" class="hash-link" aria-label="Direct link to API沒加密" title="Direct link to API沒加密" translate="no">​</a></h3>
+<p>API這東西就是網頁的前端、後端之間的橋樑，就你點擊連結時，前端也就是你手機或電腦，會向API發請求：「給我這份測驗的資料」</p>
+<p>然後問題就來了！<br>
+API直接把這份測驗的所有欄位，題目、選項、<strong>創作者選好的解答</strong> ，一並打包成JSON資料，丟給前端</p>
+<p>雖然只要「前端畫面不把答案顯示在螢幕，使用者就看不到」，but查看API回傳的原始封包，解答就一覽無遺了</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="前端信任陷阱">前端信任陷阱<a href="https://aa10200809-svg.github.io/blog/my-blog-9/6#%E5%89%8D%E7%AB%AF%E4%BF%A1%E4%BB%BB%E9%99%B7%E9%98%B1" class="hash-link" aria-label="Direct link to 前端信任陷阱" title="Direct link to 前端信任陷阱" translate="no">​</a></h3>
+<p><strong>「永遠別信任前端」</strong><br>
+這是網路安全中的經典觀念</p>
+<p>畢竟前端（瀏覽器、app）是運行在使用者的設備上，使用者對自己的手機、電腦，擁有最高權限，只要運用
+開發者工具或抓包工具，裡面藏的所有原始碼都看得到</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="正確做法">正確做法<a href="https://aa10200809-svg.github.io/blog/my-blog-9/6#%E6%AD%A3%E7%A2%BA%E5%81%9A%E6%B3%95" class="hash-link" aria-label="Direct link to 正確做法" title="Direct link to 正確做法" translate="no">​</a></h3>
+<ol>
+<li class="">API再回傳資料時，應該過濾答案欄位，只回傳題目和選項</li>
+<li class="">使用者答完後，前端把「使用者選了什麼」傳給後端，伺服器在後端比對資料庫後，只回傳「對/錯」「得分」</li>
+</ol>
+<p>這樣 <strong>真正答案</strong> 只會留在後台，前端無法偷看</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[晚上不睡覺 ✦BBP9✦]]></title>
             <link>https://aa10200809-svg.github.io/blog/my-blog-9/5</link>
@@ -702,33 +744,6 @@
 靠溜進飯店蹭電腦、偷挖住客冰淇淋來滿足冒險感，只是缺乏界線感又不想付出代價的幼稚行為。
 「年輕人」不是破壞規則的免死金牌，真正的瀟灑是靠能力光明正大地享受，而不是靠偷雞摸狗沾沾自喜。
 想過嚮往的生活，先學會當一個懂尊重的成年人，別把僥倖當成光榮。</p></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[如何開心]]></title>
-            <link>https://aa10200809-svg.github.io/blog/my-blog-7/26</link>
-            <guid>https://aa10200809-svg.github.io/blog/my-blog-7/26</guid>
-            <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[如何開心]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="哈哈哈">哈哈哈<a href="https://aa10200809-svg.github.io/blog/my-blog-7/26#%E5%93%88%E5%93%88%E5%93%88" class="hash-link" aria-label="Direct link to 哈哈哈" title="Direct link to 哈哈哈" translate="no">​</a></h3>
-<p>這什麼標題啊 幹好笑欸<br>
-開心喔... 要開心很簡單啊 笑啊<br>
-只要你永遠保持笑容，別人就不會覺得你在生氣或難過，我一直都是這樣面對人的</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="之前有一次">之前有一次<a href="https://aa10200809-svg.github.io/blog/my-blog-7/26#%E4%B9%8B%E5%89%8D%E6%9C%89%E4%B8%80%E6%AC%A1" class="hash-link" aria-label="Direct link to 之前有一次" title="Direct link to 之前有一次" translate="no">​</a></h3>
-<p>同學問我感情方面的事情，他說他想了很久，一直開不了口，怕我會黑臉，當時笑笑的回答他的問題，但後來覺得有點煩，就沒有笑容，他馬上發現，然後和我說：<strong>欸 你要笑啦，不然會以為你生氣了</strong></p>
-<br>
-<p>呵呵 只是覺得  如果知道我會不高興 那幹嘛提  然後嗯...笑很重要<br>
-所以我想說的是 笑容＝開心 基本上大眾習慣這樣認為</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="雖然這篇標題是-如何開心">雖然這篇標題是 <strong>如何</strong>開心<a href="https://aa10200809-svg.github.io/blog/my-blog-7/26#%E9%9B%96%E7%84%B6%E9%80%99%E7%AF%87%E6%A8%99%E9%A1%8C%E6%98%AF-%E5%A6%82%E4%BD%95%E9%96%8B%E5%BF%83" class="hash-link" aria-label="Direct link to 雖然這篇標題是-如何開心" title="Direct link to 雖然這篇標題是-如何開心" translate="no">​</a></h3>
-<p>但我並不想講這個，<strong>與其說如何讓自己開心，不如學習如何裝的讓別人覺得你很開心，這還比較實用</strong></p>
-<br>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="另外">另外<a href="https://aa10200809-svg.github.io/blog/my-blog-7/26#%E5%8F%A6%E5%A4%96" class="hash-link" aria-label="Direct link to 另外" title="Direct link to 另外" translate="no">​</a></h3>
-<p>不知道大家常不常自言自語，對我來說自己和自己說話，非常重要，因為不把話說出來，心裡會很痛苦<br>
-有太多話無法對別人訴說，太多愛意無法表達，說起來還真可笑... <br></p>
-<p>好啦 這是在網路上隨意抄來的主題，以上都是我個人見解、經驗，各位參考就好，不用一定要認同
-謝謝 我先睡了</p>
-<br>
-<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>最近流行Ai，讓Ai評論一下這篇文章</div><div class="admonitionContent_BuS1"><p>這篇文撕開了你用「假笑」當防衛、用「自語」當出口的深刻壓抑。
-你把「裝得很開心」當成實用生存法則，本質上只是懶得解釋，卻反而讓自己被別人的期待綁架。</p><p>文筆很真實，也很有諷刺感。但如果不去面對那些「無法表達的愛意」和真實的負面情緒，光靠裝笑和自言自語，終究只是在慢慢耗盡你自己而已。</p></div></div>]]></content:encoded>
         </item>
     </channel>
 </rss>
