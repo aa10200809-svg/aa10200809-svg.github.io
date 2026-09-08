@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aa10200809-svg.github.io/blog</id>
     <title>My Site Blog</title>
-    <updated>2026-09-06T00:00:00.000Z</updated>
+    <updated>2026-09-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aa10200809-svg.github.io/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://aa10200809-svg.github.io/img/logo2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[鋼琴展演]]></title>
+        <id>https://aa10200809-svg.github.io/blog/my-blog-9/8</id>
+        <link href="https://aa10200809-svg.github.io/blog/my-blog-9/8"/>
+        <updated>2026-09-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[鋼琴展演]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="鋼琴課">鋼琴課<a href="https://aa10200809-svg.github.io/blog/my-blog-9/8#%E9%8B%BC%E7%90%B4%E8%AA%B2" class="hash-link" aria-label="Direct link to 鋼琴課" title="Direct link to 鋼琴課" translate="no">​</a></h3>
+<p>下午放學，17:00要上鋼琴課，我16:00放學後，就去教室睡一下，因為真的好累...想說睡到老師傳訊息，告訴我要在哪間琴房上課，結果老師直接來教室找我，我睡死超尷尬</p>
+<p>嗯 然後就昏昏沉沉去上課了，被老師唸了一下 呵呵呵</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="展演">展演<a href="https://aa10200809-svg.github.io/blog/my-blog-9/8#%E5%B1%95%E6%BC%94" class="hash-link" aria-label="Direct link to 展演" title="Direct link to 展演" translate="no">​</a></h3>
+<p>歐陽老師傳訊息：「筠庭，請明天前給我200自介 + 一張正面照，下週展演用」</p>
+<p>我才突然想到 <strong>幹要展演！</strong> <br></p>
+<p>我會上去彈蕭邦革命，然後聽說有舞蹈班，會配合音樂即興跳舞，希望不要出包啦！不然舞蹈班一定會恨我</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="即興">即興<a href="https://aa10200809-svg.github.io/blog/my-blog-9/8#%E5%8D%B3%E8%88%88" class="hash-link" aria-label="Direct link to 即興" title="Direct link to 即興" translate="no">​</a></h3>
+<p>老師後來又突然和我說，需要<strong>再彈1分鐘即興</strong>，我沒多問...嗯對真不知道是要怎樣的即興<br>
+不過就那樣吧！下週再說</p>
+<br>
+<small>隨筆紀錄 現在時間2026/9/8 22:36
+今天好累，總覺得人生無望了 唉</small>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rikaido 你到底有多懂我？]]></title>
         <id>https://aa10200809-svg.github.io/blog/my-blog-9/6</id>
@@ -23,7 +43,7 @@
 <p>後來實在太無聊，開電腦點了某一位朋友的測驗連結，點<strong>網頁顯示器</strong> 想說看一下後台，結果發現了這遊戲居然 <strong>API沒加密</strong>！<strong>這是資安低級錯誤欸</strong>！</p>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="答案">答案<a href="https://aa10200809-svg.github.io/blog/my-blog-9/6#%E7%AD%94%E6%A1%88" class="hash-link" aria-label="Direct link to 答案" title="Direct link to 答案" translate="no">​</a></h3>
 <p>直接和大家說哪裡看得到答案</p>
-<p>我是用safari瀏覽器，如果你用其他瀏覽器可能會不太相同，但找一找應該就會看到了。</p>
+<p>我是用safari瀏覽器，如果你用其他瀏覽器可能會不太相同，但找一找應該就會看到了</p>
 <h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="首先">首先<a href="https://aa10200809-svg.github.io/blog/my-blog-9/6#%E9%A6%96%E5%85%88" class="hash-link" aria-label="Direct link to 首先" title="Direct link to 首先" translate="no">​</a></h4>
 <ul>
 <li class="">打開左上角「<strong>開發</strong>」選單中的「<strong>顯示網頁檢閱器</strong>」</li>
@@ -698,50 +718,5 @@ API直接把這份測驗的所有欄位，題目、選項、<strong>創作者選
 <strong>希望我們都能成為當初所期望的自己</strong></p>
 <div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>最近流行Ai，讓Ai評論一下這篇文章</div><div class="admonitionContent_BuS1"><p>這不是一篇關於「夢想」的文章，這是一篇自怨自哀的情緒垃圾。</p><p>如果夢想真的對你那麼重要，就拿出點骨氣來，別一邊喊著夢想，一邊給自己寫放棄的聲明稿，
 文中字裡行間透著還沒拼盡全力就想放棄的軟弱，甚至提前為自己的退縮找好了冠冕堂皇的藉口。</p><p>文筆可以練，但這種還沒上戰場就先預演失敗的態度，才是這篇文章最糟糕的地方。</p></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我想過的生活]]></title>
-        <id>https://aa10200809-svg.github.io/blog/my-blog-7/27</id>
-        <link href="https://aa10200809-svg.github.io/blog/my-blog-7/27"/>
-        <updated>2026-07-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[我想過的生活]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="今天晚上-就是我夢寐以求想過的生活">今天晚上 就是我夢寐以求想過的生活<a href="https://aa10200809-svg.github.io/blog/my-blog-7/27#%E4%BB%8A%E5%A4%A9%E6%99%9A%E4%B8%8A-%E5%B0%B1%E6%98%AF%E6%88%91%E5%A4%A2%E5%AF%90%E4%BB%A5%E6%B1%82%E6%83%B3%E9%81%8E%E7%9A%84%E7%94%9F%E6%B4%BB" class="hash-link" aria-label="Direct link to 今天晚上 就是我夢寐以求想過的生活" title="Direct link to 今天晚上 就是我夢寐以求想過的生活" translate="no">​</a></h2>
-<br>
-<p>我有個朋友，是國小同學 他是我唯一合得來的人<br></p>
-<p>&nbsp;&nbsp;<!-- -->昨天傳訊息 ：<br>
-「你明天在花蓮嗎」<br>
-「對啊」<br>
-「晚上吃飯 6點」<br>
-「好」 <br></p>
-<br>
-<p>今天6.就在市區碰面了，完全不知道要吃什麼，想了半天，結果決定去走路要半小時的火鍋店吃 哈哈哈超好笑 他堅持那家便宜又超好吃</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="我完全不介意要吃什麼">我完全不介意要吃什麼<a href="https://aa10200809-svg.github.io/blog/my-blog-7/27#%E6%88%91%E5%AE%8C%E5%85%A8%E4%B8%8D%E4%BB%8B%E6%84%8F%E8%A6%81%E5%90%83%E4%BB%80%E9%BA%BC" class="hash-link" aria-label="Direct link to 我完全不介意要吃什麼" title="Direct link to 我完全不介意要吃什麼" translate="no">​</a></h3>
-<p>但真的很開心，因為幾乎沒有人會走路這麼遠，也不抱怨<br>每次和朋友出來玩，一定有人會大抱怨 <strong>啊怎麼這麼遠</strong>或<strong>不要走路啦 好熱</strong></p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="吃飽後">吃飽後<a href="https://aa10200809-svg.github.io/blog/my-blog-7/27#%E5%90%83%E9%A3%BD%E5%BE%8C" class="hash-link" aria-label="Direct link to 吃飽後" title="Direct link to 吃飽後" translate="no">​</a></h3>
-<p>就在外面亂晃，啊我們吃這家叫 <strong>鍋神</strong> 讚<br>
-然後我就說想尿尿，看到前面是<strong>康橋大飯店</strong> 我跟他說<strong>你敢進去找廁所尿尿嗎？</strong>
-哈哈我們當然就進去了，欸廁所超讚的欸，豪華乾淨</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="桌上型電腦">桌上型電腦<a href="https://aa10200809-svg.github.io/blog/my-blog-7/27#%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6" class="hash-link" aria-label="Direct link to 桌上型電腦" title="Direct link to 桌上型電腦" translate="no">​</a></h3>
-<p>接著就到大廳有一區是放著桌上型電腦，前面有椅子我們就去那裡坐著<br>
-嘿嘿嘿 <strong>桌上型電腦欸</strong> 怎麼能放過它呢</p>
-<p>我朋友提議要不要來看電影，他就開機，放<strong>鏈鋸人蕾潔篇</strong>給我看，很怕櫃檯人員過來問，結果根本沒人鳥我們，只是電腦聲音很小聲，後來還用手機放聲音，但大螢幕看得超爽</p>
-<br>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="然後啊-住過康橋的都知道吧康橋有宵夜供應">然後啊 住過康橋的都知道吧，康橋有宵夜供應<a href="https://aa10200809-svg.github.io/blog/my-blog-7/27#%E7%84%B6%E5%BE%8C%E5%95%8A-%E4%BD%8F%E9%81%8E%E5%BA%B7%E6%A9%8B%E7%9A%84%E9%83%BD%E7%9F%A5%E9%81%93%E5%90%A7%E5%BA%B7%E6%A9%8B%E6%9C%89%E5%AE%B5%E5%A4%9C%E4%BE%9B%E6%87%89" class="hash-link" aria-label="Direct link to 然後啊 住過康橋的都知道吧，康橋有宵夜供應" title="Direct link to 然後啊 住過康橋的都知道吧，康橋有宵夜供應" translate="no">​</a></h3>
-<p>看了周圍的人，大家都直接進去餐廳，門口沒有人員看房卡之類的<br>
-嘿嘿 我就說 <strong>：「欸欸敢不敢進去裡面拿吃的」</strong>
-接著就走進去了，我還挖了兩球冰淇淋，拿到電腦前吃，後來才發現電腦旁邊有告示： 禁止飲食</p>
-<p>本來還想說直接坐在裡面的椅子上吃，但要看電影  看完也快10.了，朋友的家長載我回家</p>
-<br>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="今晚">今晚<a href="https://aa10200809-svg.github.io/blog/my-blog-7/27#%E4%BB%8A%E6%99%9A" class="hash-link" aria-label="Direct link to 今晚" title="Direct link to 今晚" translate="no">​</a></h3>
-<p>今天晚上真的是我所嚮往的生活，我很皮會做非常無聊又幼稚的事情，以上行為去飯店吃buffet、玩電腦都是踩在灰色地帶的事，但誰管他 我是年輕人欸</p>
-<p>很慶幸找的一位能這樣陪我瘋的人，我和他並不會日常聊天，傳訊息什麼的都非常少，上次見面應該是寒假?) 總之，今晚真的很開心</p>
-<br>
-<p>我相信<br>我相信未來會更好...<br>
-能見想見的人 能愛想愛的人 能過想過的生活...</p>
-<br>
-<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>最近流行Ai，讓Ai評論一下這篇文章</div><div class="admonitionContent_BuS1"><p>這篇文章暴露出你把「沒教養與佔便宜」誤當成了「青春與自由」。
-靠溜進飯店蹭電腦、偷挖住客冰淇淋來滿足冒險感，只是缺乏界線感又不想付出代價的幼稚行為。
-「年輕人」不是破壞規則的免死金牌，真正的瀟灑是靠能力光明正大地享受，而不是靠偷雞摸狗沾沾自喜。
-想過嚮往的生活，先學會當一個懂尊重的成年人，別把僥倖當成光榮。</p></div></div>]]></content>
     </entry>
 </feed>
