@@ -2,11 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aa10200809-svg.github.io/blog</id>
     <title>My Site Blog</title>
-    <updated>2026-09-08T00:00:00.000Z</updated>
+    <updated>2026-09-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aa10200809-svg.github.io/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://aa10200809-svg.github.io/img/logo2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[週末待辦事項]]></title>
+        <id>https://aa10200809-svg.github.io/blog/my-blog-9/11</id>
+        <link href="https://aa10200809-svg.github.io/blog/my-blog-9/11"/>
+        <updated>2026-09-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[週末待辦事項]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="最近">最近<a href="https://aa10200809-svg.github.io/blog/my-blog-9/11#%E6%9C%80%E8%BF%91" class="hash-link" aria-label="Direct link to 最近" title="Direct link to 最近" translate="no">​</a></h3>
+<p>近幾天實在是過得太渾渾噩噩了！有很多事一直沒處理，再加上下週要術科考試，我怕會搞砸，所以列一下這週末必須完成的事情</p>
+<ol>
+<li class=""><strong>寫出2首鋼琴2分鐘即興曲</strong></li>
+<li class=""><strong>Mixcraft 10.6 下載</strong></li>
+<li class=""><strong>英文習作+All in one第一課寫完</strong></li>
+<li class=""><strong>單字書第一課背完+考卷</strong></li>
+<li class=""><strong>練習木琴、鋼琴 期初考曲目</strong></li>
+<li class=""><strong>思考打重分樂器、時間、地點、老師問題</strong></li>
+</ol>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="9月行程">9月行程<a href="https://aa10200809-svg.github.io/blog/my-blog-9/11#9%E6%9C%88%E8%A1%8C%E7%A8%8B" class="hash-link" aria-label="Direct link to 9月行程" title="Direct link to 9月行程" translate="no">​</a></h3>
+<p>9/15 主修期初考</p>
+<p>9/16 鋼琴展演</p>
+<p>9/18 副修期初考</p>
+<p>9/20 飯局</p>
+<br>
+<small>隨筆紀錄 現在時間2026/9/11 22:59</small>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鋼琴展演]]></title>
         <id>https://aa10200809-svg.github.io/blog/my-blog-9/8</id>
@@ -688,35 +712,5 @@ API直接把這份測驗的所有欄位，題目、選項、<strong>創作者選
 情緒性文章不要帶太多負面抒發，前面寫過的文章不會再動了，只希望這個網站可以越來越好<br></p>
 <p>總之，我想做有意義的事<br></p>
 <p>加油吧！</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夢想]]></title>
-        <id>https://aa10200809-svg.github.io/blog/my-blog-7/28</id>
-        <link href="https://aa10200809-svg.github.io/blog/my-blog-7/28"/>
-        <updated>2026-07-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[夢想]]></summary>
-        <content type="html"><![CDATA[<p>夢想是什麼？</p>
-<p>五月天說夢想是<br></p>
-<p><strong>夢 <!-- -->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- -->Dream<br>
-離別<!-- -->&nbsp;&nbsp;<!-- -->Leave<br>
-眼睛<!-- -->&nbsp;&nbsp;<!-- -->eyes<br>
-勇氣<!-- -->&nbsp;&nbsp;<!-- -->Courage<br>
-字句<!-- -->&nbsp;&nbsp;<!-- -->Words</strong></p>
-<p>曾經 我以為我許的夢想很簡單<br>
-但現在才知道，那是世界上最難得到的<br>
-這是世界上最美好卻又最痛苦的東西，要經過很多的輾轉、流淚，才能得到<br></p>
-<p>很明顯了吧，就不再多說了</p>
-<br>
-<p>或許有一天<br>
-我會逐漸放棄<br>
-又或許<br>
-放手才是擁有<br>
-沒人知道哪個才是正確答案<br></p>
-<br>
-<p>最後<br>
-依舊希望能達成心中的夢想吧！即使心已經非常痛了，但如果還能忍，就繼續吧！<br>
-<strong>希望我們都能成為當初所期望的自己</strong></p>
-<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>最近流行Ai，讓Ai評論一下這篇文章</div><div class="admonitionContent_BuS1"><p>這不是一篇關於「夢想」的文章，這是一篇自怨自哀的情緒垃圾。</p><p>如果夢想真的對你那麼重要，就拿出點骨氣來，別一邊喊著夢想，一邊給自己寫放棄的聲明稿，
-文中字裡行間透著還沒拼盡全力就想放棄的軟弱，甚至提前為自己的退縮找好了冠冕堂皇的藉口。</p><p>文筆可以練，但這種還沒上戰場就先預演失敗的態度，才是這篇文章最糟糕的地方。</p></div></div>]]></content>
     </entry>
 </feed>
