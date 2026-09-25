@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aa10200809-svg.github.io/blog</id>
     <title>My Site Blog</title>
-    <updated>2026-09-18T00:00:00.000Z</updated>
+    <updated>2026-09-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aa10200809-svg.github.io/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://aa10200809-svg.github.io/img/logo2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[寫給...的一封信]]></title>
+        <id>https://aa10200809-svg.github.io/blog/my-blog-9/22</id>
+        <link href="https://aa10200809-svg.github.io/blog/my-blog-9/22"/>
+        <updated>2026-09-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[寫給...的一封信]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="不知道">不知道<a href="https://aa10200809-svg.github.io/blog/my-blog-9/22#%E4%B8%8D%E7%9F%A5%E9%81%93" class="hash-link" aria-label="Direct link to 不知道" title="Direct link to 不知道" translate="no">​</a></h3>
+<p>想打文章，但真不知道該寫什麼，於是就去滑一滑yt，就想到了這個主題，呵呵我也不知道為什麼</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="寫給的一封信">寫給...的一封信<a href="https://aa10200809-svg.github.io/blog/my-blog-9/22#%E5%AF%AB%E7%B5%A6%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1" class="hash-link" aria-label="Direct link to 寫給...的一封信" title="Direct link to 寫給...的一封信" translate="no">​</a></h3>
+<p>「...」可以填任何字</p>
+<p>例如：<br>
+寫給五月天的一封信<br>
+寫給明天的一封信<br>
+寫給天空的一封信<br></p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="主題">主題<a href="https://aa10200809-svg.github.io/blog/my-blog-9/22#%E4%B8%BB%E9%A1%8C" class="hash-link" aria-label="Direct link to 主題" title="Direct link to 主題" translate="no">​</a></h3>
+<p>我想把「<strong>寫給...的一封信</strong>」當成一個活動</p>
+<p>基本上之後都會不定期的繼續寫</p>
+<p>各位就期待一下吧！</p>
+<small> 2026/9/22 23:20</small>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鋼琴選拔影片]]></title>
+        <id>https://aa10200809-svg.github.io/blog/my-blog-9/19</id>
+        <link href="https://aa10200809-svg.github.io/blog/my-blog-9/19"/>
+        <updated>2026-09-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[鋼琴選拔影片]]></summary>
+        <content type="html"><![CDATA[<p>之前有提到，我要<a class="" href="https://aa10200809-svg.github.io/blog/my-blog-8/24">參加鋼琴大師班</a>，這幾天在學校錄了幾個版本，後來選了兩部</p>
+<p>請大家聽聽看</p>
+<p><strong>第一版</strong></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yUV4GMYme_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<br>
+<p><strong>第二版</strong></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wLRXzqvUloE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<p>這首叫做 <strong>李斯特 超技練習曲 No.10</strong></p>
+<p>我是覺得兩版都有失誤，但第二版彈得稍微比第一版好，可是衣服不正式...</p>
+<p>當初錄第一版時，那天就是打算要錄好，但第二版是沒有計劃的，就是那天很累，有點快瘋了 ，但後來又覺得手感不錯，就決定錄起來</p>
+<p>希望大家可以寫信給我，給我點建議 謝謝大家🥲</p>
+<p>信箱：<code>aa10200809@gmail.com</code></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[副修期初考]]></title>
         <id>https://aa10200809-svg.github.io/blog/my-blog-9/18</id>
@@ -630,45 +669,5 @@ API直接把這份測驗的所有欄位，題目、選項、<strong>創作者選
 <p>我覺得就是根據各位需求，兩種方法都很好，這篇就先這樣啦！<br>
 之後會再寫更多有趣的實用範例，不會寫教學，就是純分享，敬請期待！</p>
 <p>有任何問題或建議，歡迎寫信聯絡我！ 信箱：<code>aa10200809@gmail.com</code></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一期一會]]></title>
-        <id>https://aa10200809-svg.github.io/blog/my-blog-8/5</id>
-        <link href="https://aa10200809-svg.github.io/blog/my-blog-8/5"/>
-        <updated>2026-08-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[一期一會]]></summary>
-        <content type="html"><![CDATA[<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>這是我的<a href="https://blogblog.club/party/" target="_blank" rel="noopener noreferrer" class="">「BlogBlog 同樂會 – 2026 年 8 月」</a> 的投稿文章。本月主題是<a href="https://blog.ikukaroom.com/ichigo-ichie/" target="_blank" rel="noopener noreferrer" class="">「一期一會」</a>，由 <a href="https://blog.ikukaroom.com/" target="_blank" rel="noopener noreferrer" class="">ikuka </a> 主持。如果你有自己的部落格，歡迎一起來參加！</p></div></div>
-<br>
-<p>這個詞我想到了一些不同面向的解釋方法</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1人生第一次">1.人生第一次：<a href="https://aa10200809-svg.github.io/blog/my-blog-8/5#1%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E6%AC%A1" class="hash-link" aria-label="Direct link to 1.人生第一次：" title="Direct link to 1.人生第一次：" translate="no">​</a></h3>
-<p>今年7月，去看了人生第一場<strong>五月天演唱會</strong>，體悟到了親自蒞臨現場的那種感動，我想這就是演唱會存在的必要吧！萬人大合唱和在家自己唱就是不一樣，一定不會忘記這場演唱會，畢竟是第一次～</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2一生只有一次的相遇">2.一生只有一次的相遇：<a href="https://aa10200809-svg.github.io/blog/my-blog-8/5#2%E4%B8%80%E7%94%9F%E5%8F%AA%E6%9C%89%E4%B8%80%E6%AC%A1%E7%9A%84%E7%9B%B8%E9%81%87" class="hash-link" aria-label="Direct link to 2.一生只有一次的相遇：" title="Direct link to 2.一生只有一次的相遇：" translate="no">​</a></h3>
-<p>我這個人的個性，不太會社交，現實相處後，也不會主動要ig，所以和很多人真的是一期一會。自己的社群平台，也沒有經常聊天、聯絡的朋友，基本上除了必要通知、公事聯絡，一天下來不會有訊息，不免有點感傷，因為若沒有持續聯繫、刻意的約出去相見，一輩子也不會再見了吧！</p>
-<p>但後來也覺得，社群媒體是個蠻假相片面的東西，反正也沒訊息，留著看表面熱鬧也沒意義，所以就把社群app刪了。</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3遺憾一期一會就好">3.遺憾，一期一會就好：<a href="https://aa10200809-svg.github.io/blog/my-blog-8/5#3%E9%81%BA%E6%86%BE%E4%B8%80%E6%9C%9F%E4%B8%80%E6%9C%83%E5%B0%B1%E5%A5%BD" class="hash-link" aria-label="Direct link to 3.遺憾，一期一會就好：" title="Direct link to 3.遺憾，一期一會就好：" translate="no">​</a></h3>
-<p>我們常被人告誡，人生只有一次，勇敢去做，不要留遺憾。去向喜歡的人告白、去見想見的人、去做想做的事。而我也銘記在心，但終究還是留遺憾了。</p>
-<p>幾個月前和自己重要的人，斷絕聯繫了，還有許多話沒說、還有好多想做的事還沒和他一起做，可是一切都太遲了，再也來不及了。希望下一次遇到自己重視的人，都能好好把握住，不留遺憾。</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4或許沒有下次了好好珍惜吧">4.或許沒有下次了，好好珍惜吧：<a href="https://aa10200809-svg.github.io/blog/my-blog-8/5#4%E6%88%96%E8%A8%B1%E6%B2%92%E6%9C%89%E4%B8%8B%E6%AC%A1%E4%BA%86%E5%A5%BD%E5%A5%BD%E7%8F%8D%E6%83%9C%E5%90%A7" class="hash-link" aria-label="Direct link to 4.或許沒有下次了，好好珍惜吧：" title="Direct link to 4.或許沒有下次了，好好珍惜吧：" translate="no">​</a></h3>
-<p>愛情是個特別的東西，永遠沒有為什麼，或許你今天還在跟另一半擁抱，隔天他就傳訊息說「我們分手吧」，很難知道會不會突然有一天，你愛的人突然就說不愛你了</p>
-<p>所以，重要的人給你的每個擁抱、親吻、見面，都好好珍惜吧！因為誰知道，搞不好沒有下次了。</p>
-<br>
-<p>「一期一會」這是個簡單的四個字，道理並沒有很深，只是提醒我們，<strong>當下的每個瞬間，都是此生唯一的一次</strong></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台北行程規劃]]></title>
-        <id>https://aa10200809-svg.github.io/blog/my-blog-8/4</id>
-        <link href="https://aa10200809-svg.github.io/blog/my-blog-8/4"/>
-        <updated>2026-08-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[台北行程規劃]]></summary>
-        <content type="html"><![CDATA[<p>8/6要去台北聽張育瑞大師的音樂會!!</p>
-<p><strong>注意事項</strong></p>
-<p>1.取票：到全家機台點KKTIX 取票號碼:<strong>51046712</strong></p>
-<p>2.音樂會地點：臺北市政府親子劇場 <br>
-<!-- -->&nbsp;&nbsp;&nbsp;<!-- -->搭乘板南線（往南港）<strong>市政府站</strong> 2號出口 (走市府連通道)</p>
-<p>3.注意時間安排，音樂會19:30開始</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="希望當天順利非常期待音樂會">希望當天順利，非常期待音樂會！<a href="https://aa10200809-svg.github.io/blog/my-blog-8/4#%E5%B8%8C%E6%9C%9B%E7%95%B6%E5%A4%A9%E9%A0%86%E5%88%A9%E9%9D%9E%E5%B8%B8%E6%9C%9F%E5%BE%85%E9%9F%B3%E6%A8%82%E6%9C%83" class="hash-link" aria-label="Direct link to 希望當天順利，非常期待音樂會！" title="Direct link to 希望當天順利，非常期待音樂會！" translate="no">​</a></h3>
-<p>另外，8/7要去新竹上主修、副修<br>
-主修12:30 副修15:30<br>
-上課加油啊～</p>]]></content>
     </entry>
 </feed>
