@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aa10200809-svg.github.io/blog</id>
     <title>My Site Blog</title>
-    <updated>2026-10-28T00:00:00.000Z</updated>
+    <updated>2026-10-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aa10200809-svg.github.io/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://aa10200809-svg.github.io/img/logo2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[10/29]]></title>
+        <id>https://aa10200809-svg.github.io/blog/my-blog-10/29</id>
+        <link href="https://aa10200809-svg.github.io/blog/my-blog-10/29"/>
+        <updated>2026-10-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[10/29]]></summary>
+        <content type="html"><![CDATA[<p>今天沒幹嘛，早上上課，下午都待打擊教室，就這樣</p>
+<p>很長時候在想，去年這個時候我在幹嘛？做了什麼？身旁有誰？</p>
+<p>然後就開始害怕了，害怕時間，一步一步地接近，離別的那天在倒數計時，哈哈哈哈...</p>
+<p>怎麼辦？ 我記得不知道哪首歌，有個歌詞  <code>我會緊緊抓住你的手，直到再也抓不住 </code></p>
+<p>沒關係，別想太多，明天會到來，也就那樣了</p>
+<small>啊對 不知道看文章的各位，會不會覺得我文章有些句子莫名其妙，看不懂就去問Ai吧，我也不懂我在寫什麼了</small>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10/28]]></title>
         <id>https://aa10200809-svg.github.io/blog/my-blog-10/28</id>
@@ -506,30 +519,5 @@ XXX 這次不錯喔</p>
 <p>我在看一下英文單字，就去睡了，眼睛真的要閉起來了</p>
 <br>
 <small>2026/9/27 01:08</small>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中秋節]]></title>
-        <id>https://aa10200809-svg.github.io/blog/my-blog-9/26</id>
-        <link href="https://aa10200809-svg.github.io/blog/my-blog-9/26"/>
-        <updated>2026-09-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[中秋節]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="今天的月亮好圓啊">今天的月亮好圓啊！<a href="https://aa10200809-svg.github.io/blog/my-blog-9/26#%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%9C%88%E4%BA%AE%E5%A5%BD%E5%9C%93%E5%95%8A" class="hash-link" aria-label="今天的月亮好圓啊！的直接連結" title="今天的月亮好圓啊！的直接連結" translate="no">​</a></h3>
-<br>
-<p>在這個月圓之日 依舊想念</p>
-<p>不斷地重複播放「月亮代表我的心」這首歌</p>
-<p>歌詞中寫道：</p>
-<p>你問我愛你有多深 我愛你有幾分</p>
-<p>我想你知道 我想你會懂</p>
-<p>我愛你 有多深</p>
-<br>
-<p>最近好嗎</p>
-<p>只想告訴你 好好好想告訴你</p>
-<p>無論彼此在哪個城市</p>
-<p>抬起頭 我們都望著相同的天際和月光</p>
-<br>
-<p>輕輕的一個吻 已經打動我的心</p>
-<p>深深的一段情 教我思念到如今</p>
-<p>回憶永存心中</p>
-<p>晚安</p>]]></content>
     </entry>
 </feed>
