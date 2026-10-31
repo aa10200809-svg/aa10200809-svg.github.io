@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aa10200809-svg.github.io/blog</id>
     <title>My Site Blog</title>
-    <updated>2026-10-29T00:00:00.000Z</updated>
+    <updated>2026-10-31T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aa10200809-svg.github.io/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://aa10200809-svg.github.io/img/logo2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[10月最後一天]]></title>
+        <id>https://aa10200809-svg.github.io/blog/my-blog-10/31</id>
+        <link href="https://aa10200809-svg.github.io/blog/my-blog-10/31"/>
+        <updated>2026-10-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[10月最後一天]]></summary>
+        <content type="html"><![CDATA[<p>現在打文章才發現，今天是10/31，嗯...</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="10月">10月<a href="https://aa10200809-svg.github.io/blog/my-blog-10/31#10%E6%9C%88" class="hash-link" aria-label="10月的直接連結" title="10月的直接連結" translate="no">​</a></h2>
+<p>呃...沒什麼啦，這個月也沒做什麼事</p>
+<p>然後昨天回到家已經凌晨3.多了，上床大概4.，今天9.30起來，意外沒覺得很累</p>
+<p>吃早餐時，我姐說明天他生日，想去吃八方悅火鍋，我說好但因為明天我不在，所以今天中午就去吃了</p>
+<p>下午練琴放空，晚上一某，然後突然收到訊息，有人問我明天在不在新竹，想約出去，他感覺是遇到什麼事，想找人散心，呃不過那人算是網友
+，應該會很尬？）但沒關係，我也想出去只要有空都行，約去台北玩也不錯，之後等五天歸來，一起約好大巨蛋見也可以！</p>
+<p>好啦，就降了，11月好像蠻多事的吧！</p>
+<p>唉好累好爛啊，最近...</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10/29]]></title>
         <id>https://aa10200809-svg.github.io/blog/my-blog-10/29</id>
@@ -497,27 +513,5 @@ XXX 這次不錯喔</p>
 <p>沒人領導，大家各練各的，時間就這樣耗過去，這種場景我已看過數次了。</p>
 <p>所以要改變，我會盡力做好該做的，嗯對 就這樣。</p>
 <small>2026/9/29 01:12</small>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[連假第三天]]></title>
-        <id>https://aa10200809-svg.github.io/blog/my-blog-9/27</id>
-        <link href="https://aa10200809-svg.github.io/blog/my-blog-9/27"/>
-        <updated>2026-09-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[連假第三天]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="烤肉">烤肉？<a href="https://aa10200809-svg.github.io/blog/my-blog-9/27#%E7%83%A4%E8%82%89" class="hash-link" aria-label="烤肉？的直接連結" title="烤肉？的直接連結" translate="no">​</a></h3>
-<p>各位有烤肉嗎？我從社群媒體上，看到好多人都在烤肉，不管是怎樣的聚餐，家庭或是朋友的...</p>
-<p>我們家今年沒烤肉，到現在一口肉都還沒吃到，哈哈哈不過我也沒有想吃啦！烤肉蠻累的也很麻煩，反而覺得全家一起外出吃飯，還比較好</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="明天">明天<a href="https://aa10200809-svg.github.io/blog/my-blog-9/27#%E6%98%8E%E5%A4%A9" class="hash-link" aria-label="明天的直接連結" title="明天的直接連結" translate="no">​</a></h3>
-<p>明天15.就要坐車回新竹了 打個簡單待辦事項好了</p>
-<ul>
-<li class=""><strong>找出室內樂鋼琴伴奏譜練一下，星期三可能要支援</strong></li>
-<li class=""><strong>木琴三首曲子在跑幾遍</strong></li>
-<li class=""><strong>呃...還是練一下小鼓吧，別像上次完全都視譜，壓力太大</strong></li>
-<li class=""><strong>整理書包，不要漏帶作業、樂譜</strong></li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="先睡了">先睡了<a href="https://aa10200809-svg.github.io/blog/my-blog-9/27#%E5%85%88%E7%9D%A1%E4%BA%86" class="hash-link" aria-label="先睡了的直接連結" title="先睡了的直接連結" translate="no">​</a></h3>
-<p>我在看一下英文單字，就去睡了，眼睛真的要閉起來了</p>
-<br>
-<small>2026/9/27 01:08</small>]]></content>
     </entry>
 </feed>
