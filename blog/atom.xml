@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aa10200809-svg.github.io/blog</id>
     <title>My Site Blog</title>
-    <updated>2026-11-08T00:00:00.000Z</updated>
+    <updated>2026-11-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aa10200809-svg.github.io/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://aa10200809-svg.github.io/img/logo2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[11/9]]></title>
+        <id>https://aa10200809-svg.github.io/blog/my-blog-11/9</id>
+        <link href="https://aa10200809-svg.github.io/blog/my-blog-11/9"/>
+        <updated>2026-11-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[11/9]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="早上">早上<a href="https://aa10200809-svg.github.io/blog/my-blog-11/9#%E6%97%A9%E4%B8%8A" class="hash-link" aria-label="早上的直接連結" title="早上的直接連結" translate="no">​</a></h2>
+<p>英文課睡覺，雜誌考試77</p>
+<p>聽寫只考了82，和弦性質11題，只拿了2分，節奏扣3分，剩下應該是旋律錯一些升降吧，和弦真的完了，每次都希望其他題盡量滿分，來彌補和弦，
+但唉這次節奏居然失3分，我被騙了，提早寫一個16分音符，導致後面都錯了...</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="體育課">體育課<a href="https://aa10200809-svg.github.io/blog/my-blog-11/9#%E9%AB%94%E8%82%B2%E8%AA%B2" class="hash-link" aria-label="體育課的直接連結" title="體育課的直接連結" translate="no">​</a></h2>
+<p>跑800，跑了我們班第三名，也不知道幾秒我沒去看</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="放學">放學<a href="https://aa10200809-svg.github.io/blog/my-blog-11/9#%E6%94%BE%E5%AD%B8" class="hash-link" aria-label="放學的直接連結" title="放學的直接連結" translate="no">​</a></h2>
+<p>好累，眼前很模糊，風吹得頭好痛，在教室睡了2小時，6.去上主修課</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="變天了">變天了<a href="https://aa10200809-svg.github.io/blog/my-blog-11/9#%E8%AE%8A%E5%A4%A9%E4%BA%86" class="hash-link" aria-label="變天了的直接連結" title="變天了的直接連結" translate="no">​</a></h2>
+<p>風漸漸變大了，多穿一點，別感冒了。</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iphone duo]]></title>
         <id>https://aa10200809-svg.github.io/blog/my-blog-11/8</id>
@@ -76,11 +93,11 @@ Duo 雙面預覽<br>
 </ul>
 <p>最長可達 24 小時<br>
 影片播放時間：<br>
-使用外螢幕最長可達 44 小時7<br>
-使用內螢幕最長可達 31 小時7<br></p>
+使用外螢幕最長可達 44.7小時<br>
+使用內螢幕最長可達 31.7小時<br></p>
 <p>影片串流播放時間：<br>
-使用外螢幕最長可達 37 小時7<br>
-使用內螢幕最長可達 26 小時7<br></p>
+使用外螢幕最長可達 31.7小時<br>
+使用內螢幕最長可達 26.7小時<br></p>
 <p>支援快速充電</p>
 <ul>
 <li class="">
@@ -108,8 +125,8 @@ Duo 雙面預覽<br>
 <li class="">3.重量不輕</li>
 </ul>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="結語">結語<a href="https://aa10200809-svg.github.io/blog/my-blog-11/8#%E7%B5%90%E8%AA%9E" class="hash-link" aria-label="結語的直接連結" title="結語的直接連結" translate="no">​</a></h2>
-<p>我是覺得啦！網路上有一大堆人分析、開箱評價文章影片，很多都是很好的內容，歡迎大家多去看看。
-而一個東西有好就會有壞，duo引起的話題還在不斷增加，我想之後的功能會慢慢更新補上吧!</p>]]></content>
+<p>網路上有一大堆人分析、開箱評價文章影片，很多都是很好的內容，歡迎大家多去看看。我這篇只是湊熱鬧而已，不是什麼專業分析文章。</p>
+<p>我覺得一個東西有好就會有壞，duo引起的話題還在不斷增加，期待蘋果、各個軟體之後所做出的更新改變！</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[意外的爵士課]]></title>
@@ -532,28 +549,5 @@ XXX 這次不錯喔</p>
 <br>
 <p>不知道啊...</p>
 <small>2026/10/16 12:12</small>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[近期行程]]></title>
-        <id>https://aa10200809-svg.github.io/blog/my-blog-10/14</id>
-        <link href="https://aa10200809-svg.github.io/blog/my-blog-10/14"/>
-        <updated>2026-10-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[近期行程]]></summary>
-        <content type="html"><![CDATA[<ul>
-<li class=""><strong>10/19(一)</strong> 視唱考試</li>
-<li class=""><strong>10/21(三)</strong> 指定曲抽籤</li>
-<li class=""><strong>10/23(五)</strong> 學長姐音樂會</li>
-<li class=""><strong>10/27(二)</strong> 班音室內樂彩排</li>
-<li class=""><strong>10/30(五)</strong> 學長姐音樂會</li>
-<li class=""><strong>11/3(二)</strong> 班音室內樂彩排</li>
-<li class=""><strong>11/13(五)</strong> 班級音樂會</li>
-<li class=""><strong>11/15(日)</strong> 鋼琴音樂會彩排</li>
-<li class=""><strong>11/22(日)</strong> 去台北聽王羽佳音樂會</li>
-<li class=""><strong>11/29(日)</strong> 鋼琴音樂會演出</li>
-<li class=""><strong>12/1(二)</strong> 管樂合奏市賽</li>
-<li class=""><strong>12/2(三、上午)</strong> 國樂合奏市賽</li>
-<li class=""><strong>12/2(三、下午)</strong> 打擊重奏市賽</li>
-<li class=""><strong>12/2(三、下午)</strong> 木琴獨奏市賽</li>
-</ul>]]></content>
     </entry>
 </feed>
