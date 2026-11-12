@@ -4,10 +4,24 @@
         <title>My Site Blog</title>
         <link>https://aa10200809-svg.github.io/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Wed, 11 Nov 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
+        <item>
+            <title><![CDATA[高二上班音倒數一天]]></title>
+            <link>https://aa10200809-svg.github.io/blog/my-blog-11/12</link>
+            <guid>https://aa10200809-svg.github.io/blog/my-blog-11/12</guid>
+            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[高二上班音倒數一天]]></description>
+            <content:encoded><![CDATA[<br>
+<p>走到現在這裡，我想一切並非容易，從找曲子到四人聚在一起，再到編曲，一遍一遍坐在電腦前，重複播放音樂，思考著該如何改編
+，而每次的排練，想法與現實的衝突，不斷的爭論著，只為演出心中所嚮往的音樂</p>
+<p>準備這場音樂會的過程，不管發生了什麼，都將是回憶與教訓，而那些也只有218的我們知道</p>
+<br>
+<p>祝</p>
+<p>明天音樂會順利！</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[好累的一天]]></title>
             <link>https://aa10200809-svg.github.io/blog/my-blog-11/11</link>
@@ -539,22 +553,6 @@ Duo 雙面預覽<br>
 <p>難過！ 學長姐音樂會延遲，呃沒意外我應該還是會去，要再看看火車票，一些行程也有變動，而且這樣就連放四天，好多事無法做，一直delay可是安全最重要啦 嗯嗯</p>
 <br>
 <small>2026/10/23 01:41</small>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[無聊]]></title>
-            <link>https://aa10200809-svg.github.io/blog/my-blog-10/18</link>
-            <guid>https://aa10200809-svg.github.io/blog/my-blog-10/18</guid>
-            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[無聊]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="首先">首先<a href="https://aa10200809-svg.github.io/blog/my-blog-10/18#%E9%A6%96%E5%85%88" class="hash-link" aria-label="首先的直接連結" title="首先的直接連結" translate="no">​</a></h2>
-<p>Today has been really boring. 早上在家彈琴，下午搭車，本來想在北車買摩斯
-，結果薑絲牛肉珍珠堡缺貨，我就不買了
-，然後原本事先買的高鐵票是19:21，因為時間提早，就想說搭前一班自由座好了! 結果排隊超滿，5節車廂都全滿，很扯欸！！！
-台北上車還要站著，所以我就不搭了！搭本來買票那班就好</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="and-then">And then<a href="https://aa10200809-svg.github.io/blog/my-blog-10/18#and-then" class="hash-link" aria-label="And then的直接連結" title="And then的直接連結" translate="no">​</a></h2>
-<p>然後就沒有然後了</p>
-<p>突然想寫歌詞，啊可是我沒有歌欸，算了管他的</p>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">沈默的訊息</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">無言的空氣</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">安靜的讓人窒息</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">採排著</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">試著不掉淚說出話</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">才發現根本做不到</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">背影和聲音</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">小巷和走廊</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">一句一句的挽回台詞</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">正在絕望中無聲吶喊 </span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">終究來到告別時刻</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">固執的手卻不放開</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">做著最後的掙扎</span><br></div></code></pre></div></div>]]></content:encoded>
         </item>
     </channel>
 </rss>
