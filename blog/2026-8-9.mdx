@@ -1,0 +1,559 @@
+---
+slug: my-blog-8/9
+title: MDX 實戰篇
+sidebar_label: MDX 實戰篇
+image: img/logo2.png
+description: MDX 實戰篇
+---
+## 前言
+上一章基礎篇，都在講無聊的語法，相信大家看一下就馬上按叉叉關掉了，但這一篇要講的內容，就比較有趣了啦！
+
+那我們進入正題吧
+### 首先 MDX有兩種寫法
+1.引用外部React元件：事先在外部寫一個React組件，再引用到MDX的import使用。
+
+2.直接在MDX檔裡寫簡單的Inline JSX。
+
+-------
+
+### 第一種示範
+當你閒閒沒事時，就可以出個題來考考大家
+
+import Quiz from '@site/src/components/Quiz';
+
+<Quiz
+  question="Q: 哪一首歌曲，不是收錄在「自傳」這張專輯中？"
+  options={[
+    '如果我們不曾相遇',
+    '嘿！我要走了',
+    '頑固',
+    '成名在望'
+  ]}
+  correctAnswerIndex={1}
+  explanation="不用解釋吧！五迷一秒作答"
+/>
+#### 好！讓我們來看看這是怎麼寫出來的
+1.去專案的 src/components/ 資料夾下，新增一個.jsx的檔案，我是取名Quiz.jsx，當然也可以取MAYDAY.jsx 隨便你要叫什麼
+
+2.在.jsx檔裡開始寫，這邊直接展示程式碼
+
+:::info[有點長]
+```jsx
+import React, { useState } from 'react';
+
+export default function Quiz({ question, options, correctAnswerIndex, explanation }) {
+  const [selected, setSelected] = useState(null);
+  const [submitted, setSubmitted] = useState(false);
+
+  const handleOptionClick = (index) => {
+    if (submitted) return;
+    setSelected(index);
+  };
+
+  const handleSubmit = () => {
+    if (selected === null) return;
+    setSubmitted(true);
+  };
+
+  const handleReset = () => {
+    setSelected(null);
+    setSubmitted(false);
+  };
+
+  return (
+    <div style={{
+      border: '1px solid var(--ifm-color-emphasis-300)',
+      borderRadius: '8px',
+      padding: '16px',
+      margin: '16px 0',
+      backgroundColor: 'var(--ifm-card-background-color)'
+    }}>
+      {question && (
+        <h4 style={{ marginTop: 0, marginBottom: '12px', fontSize: '1.1rem' }}>
+          {question}
+        </h4>
+      )}
+
+      <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+        {options.map((option, idx) => {
+          let optionBg = 'transparent';
+          let borderColor = 'var(--ifm-color-emphasis-300)';
+
+          if (selected === idx) {
+            borderColor = 'var(--ifm-color-primary)';
+            optionBg = 'var(--ifm-color-primary-lightest)';
+          }
+
+          if (submitted) {
+            if (idx === correctAnswerIndex) {
+              borderColor = 'var(--ifm-color-success)';
+              optionBg = 'var(--ifm-color-success-lightest, rgba(0,200,0,0.1))';
+            } else if (selected === idx) {
+              borderColor = 'var(--ifm-color-danger)';
+              optionBg = 'var(--ifm-color-danger-lightest, rgba(200,0,0,0.1))';
+            }
+          }
+
+          return (
+            <button
+              key={idx}
+              onClick={() => handleOptionClick(idx)}
+              style={{
+                textAlign: 'left',
+                padding: '10px 14px',
+                borderRadius: '6px',
+                border: `2px solid ${borderColor}`,
+                backgroundColor: optionBg,
+                cursor: submitted ? 'default' : 'pointer',
+                color: 'var(--ifm-font-color-base)',
+                fontSize: '0.95rem',
+                transition: 'all 0.2s',
+                display: 'flex',
+                justifyContent: 'space-between',
+                alignItems: 'center'
+              }}
+            >
+              <span>{option}</span>
+              {submitted && idx === correctAnswerIndex && <span>🩵正確</span>}
+              {submitted && selected === idx && idx !== correctAnswerIndex && <span>🥲錯誤</span>}
+            </button>
+          );
+        })}
+      </div>
+
+      <div style={{ marginTop: '16px', display: 'flex', gap: '10px', alignItems: 'center' }}>
+        {!submitted ? (
+          <button
+            onClick={handleSubmit}
+            disabled={selected === null}
+            style={{
+              backgroundColor: selected === null ? '#ccc' : 'var(--ifm-color-primary)',
+              color: 'white',
+              border: 'none',
+              borderRadius: '4px',
+              padding: '6px 16px',
+              cursor: selected === null ? 'not-allowed' : 'pointer',
+              fontWeight: 'bold'
+            }}
+          >
+            送出答案
+          </button>
+        ) : (
+          <button
+            onClick={handleReset}
+            style={{
+              backgroundColor: 'transparent',
+              border: '1px solid var(--ifm-color-emphasis-500)',
+              color: 'var(--ifm-font-color-base)',
+              borderRadius: '4px',
+              padding: '6px 12px',
+              cursor: 'pointer'
+            }}
+          >
+            重新作答
+          </button>
+        )}
+      </div>
+
+      {submitted && explanation && (
+        <div style={{
+          marginTop: '12px',
+          paddingTop: '12px',
+          borderTop: '1px dashed var(--ifm-color-emphasis-300)',
+          color: 'var(--ifm-font-color-base)',
+          fontSize: '0.9rem'
+        }}>
+          👍🏿<strong>解析：</strong>{explanation}
+        </div>
+      )}
+    </div>
+  );
+}
+```
+:::
+
+3.再來就可以到.mdx檔中引入，一樣直接展示程式碼
+:::info[👍🏿👍🏿]
+```jsx
+import Quiz from '@site/src/components/Quiz';
+
+<Quiz
+  question="Q: 哪一首歌曲，不是收錄在「自傳」這張專輯中？"
+  options={[
+    '如果我們不曾相遇',
+    '嘿！我要走了',
+    '頑固',
+    '成名在望'
+  ]}
+  correctAnswerIndex={1}
+  explanation="不用解釋吧！五迷一秒作答"
+/>
+```
+:::
+
+如此以來就搞定了！但還是要來學學程式碼當中的邏輯，只會**複製貼上**就太無趣了<br/>
+我們挑個比較重要的區域來講
+
+---
+#### 教學
+1.
+```
+export default function Quiz({ question, options, correctAnswerIndex, explanation })
+```
+這是**元件傳參**
+定義了這個元件可以接收 4 個外部傳入的資料（題目、選項、正確答案索引、解析）。
+
+2.
+```
+{submitted && idx === correctAnswerIndex && <span>🩵正確</span>}
+{submitted && selected === idx && idx !== correctAnswerIndex && <span>🥲錯誤</span>}
+```
+這是在說條件<br/>
+顯示第一行的條件：<br/> 
+- 已按下**送出答案**（submitted === true）
+- 當前這個選項是**正確答案**（idx === correctAnswerIndex）
+
+顯示第二行的條件：<br/> 
+- 已按下**送出答案**（submitted === true）
+- 使用者點選的這個選項不是正確答案（idx !== correctAnswerIndex）
+
+3.
+```
+ if (submitted) {
+            if (idx === correctAnswerIndex) {
+              borderColor = 'var(--ifm-color-success)';
+              optionBg = 'var(--ifm-color-success-lightest, rgba(0,200,0,0.1))';
+            } else if (selected === idx) {
+              borderColor = 'var(--ifm-color-danger)';
+              optionBg = 'var(--ifm-color-danger-lightest, rgba(200,0,0,0.1))';
+            }
+          }
+```
+這是在處理答案送出後的**動態樣式**
+- 標準答案選項(idx === correctAnswerIndex)：框線與背景強制套用綠色（color-success）
+- 使用者選錯的那一選項（selected === idx）：框線與背景強制套用紅色（color-danger）
+
+好！先解到這邊 我們來看第二種
+
+-------
+
+### 第二種示範
+先玩玩看吧！
+
+import React, { useState } from 'react';
+
+export const MaydayMatch = () => {
+  const [selectedMember, setSelectedMember] = useState(null);
+  const [selectedRole, setSelectedRole] = useState(null);
+  const [matchedPairs, setMatchedPairs] = useState({});
+  const [statusMessage, setStatusMessage] = useState('先點選一位團員，再點選對應的職稱！');
+
+  const members = ['阿信', '怪獸', '石頭', '瑪莎', '冠佑'];
+  const roles = ['鼓手', '吉他手/團長', '主唱', '貝斯手', '吉他手'];
+  
+  const correctPairs = {
+    '阿信': '主唱',
+    '怪獸': '吉他手/團長',
+    '石頭': '吉他手',
+    '瑪莎': '貝斯手',
+    '冠佑': '鼓手'
+  };
+
+  const handleSelectMember = (name) => {
+    if (matchedPairs[name]) return;
+    setSelectedMember(name);
+    if (selectedRole) {
+      checkPair(name, selectedRole);
+    } else {
+      setStatusMessage(`已選擇【${name}】，請選擇對應的職稱...`);
+    }
+  };
+
+  const handleSelectRole = (role) => {
+    // 檢查該職稱是否已被成功配對
+    const isRoleMatched = Object.values(matchedPairs).includes(role);
+    if (isRoleMatched) return;
+
+    setSelectedRole(role);
+    if (selectedMember) {
+      checkPair(selectedMember, role);
+    } else {
+      setStatusMessage(`已選擇【${role}】，請選擇對應的團員...`);
+    }
+  };
+
+  const checkPair = (member, role) => {
+    if (correctPairs[member] === role) {
+      setMatchedPairs(prev => ({ ...prev, [member]: role }));
+      setStatusMessage(`🤓讚喔`);
+    } else {
+      setStatusMessage(`🫠答錯了！這麼簡單欸`);
+    }
+    // 配對後清除選取狀態
+    setSelectedMember(null);
+    setSelectedRole(null);
+  };
+
+  const isCompleted = Object.keys(matchedPairs).length === members.length;
+
+  return (
+    <div style={{
+      padding: '20px',
+      borderRadius: '12px',
+      border: '1px solid var(--ifm-color-emphasis-300)',
+      backgroundColor: 'var(--ifm-card-background-color)',
+      margin: '24px 0',
+      boxShadow: '0 4px 12px rgba(0, 0, 0, 0.05)'
+    }}>
+      <h3 style={{ marginTop: 0, marginBottom: '8px' }}>五月天團員職稱配對</h3>
+      <p style={{ margin: '0 0 16px 0', color: 'var(--ifm-color-emphasis-700)', fontSize: '0.95rem' }}>
+        {isCompleted ? '讚讚 已完成所有配對！' : statusMessage}
+      </p>
+
+      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '16px' }}>
+        {/* 左側：團員 */}
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+          <span style={{ fontWeight: 'bold', fontSize: '0.85rem', color: 'var(--ifm-color-emphasis-600)' }}>團員</span>
+          {members.map(m => {
+            const isMatched = !!matchedPairs[m];
+            const isSelected = selectedMember === m;
+            return (
+              <button
+                key={m}
+                onClick={() => handleSelectMember(m)}
+                disabled={isMatched}
+                style={{
+                  padding: '10px 14px',
+                  borderRadius: '8px',
+                  textAlign: 'left',
+                  border: isSelected ? '2px solid var(--ifm-color-primary)' : '1px solid var(--ifm-color-emphasis-300)',
+                  backgroundColor: isMatched ? 'var(--ifm-color-success-lightest)' : isSelected ? 'var(--ifm-color-primary-lightest)' : 'transparent',
+                  color: isMatched ? 'var(--ifm-color-success-darkest)' : 'inherit',
+                  cursor: isMatched ? 'not-allowed' : 'pointer',
+                  fontWeight: isSelected || isMatched ? 'bold' : 'normal',
+                  transition: 'all 0.2s ease'
+                }}
+              >
+                {m} {isMatched && '✓'}
+              </button>
+            );
+          })}
+        </div>
+
+        {/* 右側：職稱 */}
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+          <span style={{ fontWeight: 'bold', fontSize: '0.85rem', color: 'var(--ifm-color-emphasis-600)' }}>職稱 / 樂器</span>
+          {roles.map((r, idx) => {
+            const isMatched = Object.values(matchedPairs).includes(r);
+            const isSelected = selectedRole === r;
+            return (
+              <button
+                key={idx}
+                onClick={() => handleSelectRole(r)}
+                disabled={isMatched}
+                style={{
+                  padding: '10px 14px',
+                  borderRadius: '8px',
+                  textAlign: 'left',
+                  border: isSelected ? '2px solid var(--ifm-color-primary)' : '1px solid var(--ifm-color-emphasis-300)',
+                  backgroundColor: isMatched ? 'var(--ifm-color-success-lightest)' : isSelected ? 'var(--ifm-color-primary-lightest)' : 'transparent',
+                  color: isMatched ? 'var(--ifm-color-success-darkest)' : 'inherit',
+                  cursor: isMatched ? 'not-allowed' : 'pointer',
+                  fontWeight: isSelected || isMatched ? 'bold' : 'normal',
+                  transition: 'all 0.2s ease'
+                }}
+              >
+                {r} {isMatched && '✓'}
+              </button>
+            );
+          })}
+        </div>
+      </div>
+    </div>
+  );
+};
+
+<MaydayMatch />
+
+這段直接寫在.mdx檔裡面<br/>
+*來揭曉程式碼*
+:::info[很長別嚇到了]
+```jsx
+
+import React, { useState } from 'react';
+
+export const MaydayMatch = () => {
+  const [selectedMember, setSelectedMember] = useState(null);
+  const [selectedRole, setSelectedRole] = useState(null);
+  const [matchedPairs, setMatchedPairs] = useState({});
+  const [statusMessage, setStatusMessage] = useState('先點選一位團員，再點選對應的職稱！');
+
+  const members = ['阿信', '怪獸', '石頭', '瑪莎', '冠佑'];
+  const roles = ['鼓手', '吉他手/團長', '主唱', '貝斯手', '吉他手'];
+  
+  const correctPairs = {
+    '阿信': '主唱',
+    '怪獸': '吉他手/團長',
+    '石頭': '吉他手',
+    '瑪莎': '貝斯手',
+    '冠佑': '鼓手'
+  };
+
+  const handleSelectMember = (name) => {
+    if (matchedPairs[name]) return;
+    setSelectedMember(name);
+    if (selectedRole) {
+      checkPair(name, selectedRole);
+    } else {
+      setStatusMessage(`已選擇【${name}】，請選擇對應的職稱...`);
+    }
+  };
+
+  const handleSelectRole = (role) => {
+    const isRoleMatched = Object.values(matchedPairs).includes(role);
+    if (isRoleMatched) return;
+
+    setSelectedRole(role);
+    if (selectedMember) {
+      checkPair(selectedMember, role);
+    } else {
+      setStatusMessage(`已選擇【${role}】，請選擇對應的團員...`);
+    }
+  };
+
+  const checkPair = (member, role) => {
+    if (correctPairs[member] === role) {
+      setMatchedPairs(prev => ({ ...prev, [member]: role }));
+      setStatusMessage(`🤓讚喔`);
+    } else {
+      setStatusMessage(`🫠答錯了！這麼簡單欸`);
+    }
+    setSelectedMember(null);
+    setSelectedRole(null);
+  };
+
+  const isCompleted = Object.keys(matchedPairs).length === members.length;
+
+  return (
+    <div style={{
+      padding: '20px',
+      borderRadius: '12px',
+      border: '1px solid var(--ifm-color-emphasis-300)',
+      backgroundColor: 'var(--ifm-card-background-color)',
+      margin: '24px 0',
+      boxShadow: '0 4px 12px rgba(0, 0, 0, 0.05)'
+    }}>
+      <h3 style={{ marginTop: 0, marginBottom: '8px' }}>五月天團員職稱配對</h3>
+      <p style={{ margin: '0 0 16px 0', color: 'var(--ifm-color-emphasis-700)', fontSize: '0.95rem' }}>
+        {isCompleted ? '讚讚 已完成所有配對！' : statusMessage}
+      </p>
+
+      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '16px' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+          <span style={{ fontWeight: 'bold', fontSize: '0.85rem', color: 'var(--ifm-color-emphasis-600)' }}>團員</span>
+          {members.map(m => {
+            const isMatched = !!matchedPairs[m];
+            const isSelected = selectedMember === m;
+            return (
+              <button
+                key={m}
+                onClick={() => handleSelectMember(m)}
+                disabled={isMatched}
+                style={{
+                  padding: '10px 14px',
+                  borderRadius: '8px',
+                  textAlign: 'left',
+                  border: isSelected ? '2px solid var(--ifm-color-primary)' : '1px solid var(--ifm-color-emphasis-300)',
+                  backgroundColor: isMatched ? 'var(--ifm-color-success-lightest)' : isSelected ? 'var(--ifm-color-primary-lightest)' : 'transparent',
+                  color: isMatched ? 'var(--ifm-color-success-darkest)' : 'inherit',
+                  cursor: isMatched ? 'not-allowed' : 'pointer',
+                  fontWeight: isSelected || isMatched ? 'bold' : 'normal',
+                  transition: 'all 0.2s ease'
+                }}
+              >
+                {m} {isMatched && '✓'}
+              </button>
+            );
+          })}
+        </div>
+
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+          <span style={{ fontWeight: 'bold', fontSize: '0.85rem', color: 'var(--ifm-color-emphasis-600)' }}>職稱 / 樂器</span>
+          {roles.map((r, idx) => {
+            const isMatched = Object.values(matchedPairs).includes(r);
+            const isSelected = selectedRole === r;
+            return (
+              <button
+                key={idx}
+                onClick={() => handleSelectRole(r)}
+                disabled={isMatched}
+                style={{
+                  padding: '10px 14px',
+                  borderRadius: '8px',
+                  textAlign: 'left',
+                  border: isSelected ? '2px solid var(--ifm-color-primary)' : '1px solid var(--ifm-color-emphasis-300)',
+                  backgroundColor: isMatched ? 'var(--ifm-color-success-lightest)' : isSelected ? 'var(--ifm-color-primary-lightest)' : 'transparent',
+                  color: isMatched ? 'var(--ifm-color-success-darkest)' : 'inherit',
+                  cursor: isMatched ? 'not-allowed' : 'pointer',
+                  fontWeight: isSelected || isMatched ? 'bold' : 'normal',
+                  transition: 'all 0.2s ease'
+                }}
+              >
+                {r} {isMatched && '✓'}
+              </button>
+            );
+          })}
+        </div>
+      </div>
+    </div>
+  );
+};
+
+<MaydayMatch />
+```
+:::
+
+程式碼非常長，挑2個核心重點講
+
+1.
+```
+import React, { useState } from 'react';
+```
+這是指是在 .mdx 檔宣告組件<br/>最後再寫```<MaydayMatch/>```指呼叫並執行這個組件
+
+2.
+```
+const checkPair = (member, role) => {
+  if (correctPairs[member] === role) {
+    setMatchedPairs(prev => ({ ...prev, [member]: role }));
+    setStatusMessage(`🤓讚喔`);
+  } else {
+    setStatusMessage(`🫠答錯了！這麼簡單欸`);
+  }
+  setSelectedMember(null);
+  setSelectedRole(null);
+};
+```
+這段在**判定有沒有答對**
+
+在前面時，有先寫好答案
+```correctPairs = { '阿信': '主唱', '怪獸': '吉他手/團長' ... }```
+使用者點選後，程式會去查答案發現：
+
+**答對**：跳出「🤓讚喔」，接著把這組正確配對存進 matchedPairs 記錄過的團員，畫面上的按鈕就會變綠色且不能再點。
+
+**答錯**：跳出「🫠答錯了！這麼簡單欸」
+
+## 總結
+第一種和第二種的對比
+|  | 優點 |缺點 | 適用時機 |
+| ------ | ------ | ----- | ----- |
+| 第一種（引用外部 React 元件） | 1.檔案乾淨<br/>2.邏輯可跨頁面重複使用| 要額外建立.jsx檔、複雜 |複雜邏輯、大型組件
+|第二種（直接寫在.mdx）| 1.快速方便<br/>2.免開新檔案 | 文章原始碼會變超長、無法給其他文章複用|簡單組件、單篇特製
+
+**感謝大家看到這裡** 辛苦啦
+
+我覺得就是根據各位需求，兩種方法都很好，這篇就先這樣啦！<br/>
+之後會再寫更多有趣的實用範例，不會寫教學，就是純分享，敬請期待！
+
+有任何問題或建議，歡迎寫信聯絡我！ 信箱：```aa10200809@gmail.com```
