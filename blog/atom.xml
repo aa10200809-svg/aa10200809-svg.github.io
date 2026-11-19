@@ -2,12 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aa10200809-svg.github.io/blog</id>
     <title>Ting Blog</title>
-    <updated>2026-11-18T00:00:00.000Z</updated>
+    <updated>2026-11-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aa10200809-svg.github.io/blog"/>
     <subtitle>關於音樂、生活與技術的隨筆</subtitle>
     <icon>https://aa10200809-svg.github.io/img/logo2.png</icon>
     <rights>Copyright © 2026 林筠庭</rights>
+    <entry>
+        <title type="html"><![CDATA[不知道]]></title>
+        <id>https://aa10200809-svg.github.io/blog/my-blog-11/19</id>
+        <link href="https://aa10200809-svg.github.io/blog/my-blog-11/19"/>
+        <updated>2026-11-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[不知道]]></summary>
+        <content type="html"><![CDATA[<p>啊抱歉，不知道該說什麼了，現在在播只想問想念的，想念的想念的你，怎麼樣...結束了下一首是棠棣賦，棠棣花開，何以不懼風霜
+，此生回望，誰能不負衷腸，越播越好聽，好喜歡...</p>
+<p>今天...過的...就還好吧，反正也就那樣</p>
+<p>啊然後放學本來要去找...畢竟天冷了呢...然後沒看到人，很難過，去完打擊教室還想出去晃晃，看能不能遇到，結果主修老師就來了，算了</p>
+<p>你說藍色是你最愛的顏色，是不是我錯了，我們約好了，要比我快樂，這是最後一首，要去洗澡了</p>
+<p>怎麼能輕易說要結束，怎麼會讓你抱著我哭，周興哲的歌真好聽，好啦播完了，白白...</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[煩]]></title>
         <id>https://aa10200809-svg.github.io/blog/my-blog-11/18</id>
@@ -513,31 +526,5 @@ Duo 雙面預覽<br>
 <br>
 <p>好了 該說晚安了</p>
 <small>2026/10/29 01:47</small>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[團練]]></title>
-        <id>https://aa10200809-svg.github.io/blog/my-blog-10/26</id>
-        <link href="https://aa10200809-svg.github.io/blog/my-blog-10/26"/>
-        <updated>2026-10-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[團練]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2年級">2年級<a href="https://aa10200809-svg.github.io/blog/my-blog-10/26#2%E5%B9%B4%E7%B4%9A" class="hash-link" aria-label="2年級的直接連結" title="2年級的直接連結" translate="no">​</a></h2>
-<p>上了2年級，不知道為什麼感覺一直在練團，還記得當時一年級3月多全國賽比完，我直接說幹以後不搞了，什麼樂團都不參加了，啊結果今年<strong>市賽比3團</strong>，哈哈哈</p>
-<p>好煩現在什麼團都不想練</p>
-<ul>
-<li class="">打擊團</li>
-<li class="">管樂團</li>
-<li class="">國樂團</li>
-<li class="">班級大型製作合奏</li>
-<li class="">室內樂</li>
-<li class="">合奏課程</li>
-</ul>
-<p>以上就是我全部的團，有時候從早練到晚，真的快瘋了，好討厭練團心很累，現在連和同學講話都沒什麼力氣了，
-而且和他們沒什麼話題好聊，我都尬笑，而且即使想聊，卻不知要開什麼話題</p>
-<p><strong>怎麼辦好懷念一年級... 當時好開心啊...</strong></p>
-<p>到底要怎麼開心？到底要擺出什麼表情？你是真的開心嗎？為什麼要笑？明明就很難過...</p>
-<p>明天要上學，我不想去啊...</p>
-<p>然後明天好像要彩排呵呵呵，隨便了吧不想管了，我要睡了但應該也睡不著，唉</p>
-<p>躺在床上懷念以前好單純快樂的時光，接著看看手機，什麼都沒有，好像一切都是夢，怎麼這麼安靜啊？這樣對嗎...？</p>
-<small>2026/10/27 01:52</small>]]></content>
     </entry>
 </feed>
