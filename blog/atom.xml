@@ -2,12 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aa10200809-svg.github.io/blog</id>
     <title>Ting Blog</title>
-    <updated>2026-11-20T00:00:00.000Z</updated>
+    <updated>2026-11-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aa10200809-svg.github.io/blog"/>
     <subtitle>關於音樂、生活與技術的隨筆</subtitle>
     <icon>https://aa10200809-svg.github.io/img/logo2.png</icon>
     <rights>Copyright © 2026 林筠庭</rights>
+    <entry>
+        <title type="html"><![CDATA[新頁面]]></title>
+        <id>https://aa10200809-svg.github.io/blog/my-blog-11/21</id>
+        <link href="https://aa10200809-svg.github.io/blog/my-blog-11/21"/>
+        <updated>2026-11-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[新頁面]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="語錄">語錄<a href="https://aa10200809-svg.github.io/blog/my-blog-11/21#%E8%AA%9E%E9%8C%84" class="hash-link" aria-label="語錄的直接連結" title="語錄的直接連結" translate="no">​</a></h2>
+<p>頁面更新好了！<a class="" href="https://aa10200809-svg.github.io/docs/%E8%AA%9E%E9%8C%84">這裡點一下</a></p>
+<p>這些句子都是網路上或現實聽到的，然後有感觸就隨手紀錄在備忘錄上，現在回頭看這些話，會想起一些事，畢竟一定是經歷什麼，才會對這些句子有感覺的</p>
+<p>簡單區分寫的時間：<br>
+1-29 是國中寫的，當時還記錄在舊手機上（三星S9+），接著29以後是上高中寫的</p>
+<p>頁面可以抽隨機句子，不過還有點陽春，因為最近比較忙，剛剛在台北聽王羽佳音樂會，差點趕不上高鐵，這之後再說，但有時間我會繼續更新，優化介面的</p>
+<p>好了，現在在高鐵上打這個文章，再兩站就到了，先白白啦</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[累]]></title>
         <id>https://aa10200809-svg.github.io/blog/my-blog-11/20</id>
@@ -488,18 +502,5 @@ Duo 雙面預覽<br>
 ，應該會很尬？）但沒關係，我也想出去只要有空都行，約去台北玩也不錯，之後等五月天歸來，一起約好大巨蛋見也可以！</p>
 <p>好啦，就降了，11月好像蠻多事的吧！</p>
 <p>唉好累好爛啊，最近...</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10/29]]></title>
-        <id>https://aa10200809-svg.github.io/blog/my-blog-10/29</id>
-        <link href="https://aa10200809-svg.github.io/blog/my-blog-10/29"/>
-        <updated>2026-10-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[10/29]]></summary>
-        <content type="html"><![CDATA[<p>今天沒幹嘛，早上上課，下午都待打擊教室，就這樣</p>
-<p>很長時候在想，去年這個時候我在幹嘛？做了什麼？身旁有誰？</p>
-<p>然後就開始害怕了，害怕時間，一步一步地接近，離別的那天在倒數計時，哈哈哈哈...</p>
-<p>怎麼辦？ 我記得不知道哪首歌，有個歌詞  <code>我會緊緊抓住你的手，直到再也抓不住 </code></p>
-<p>沒關係，別想太多，明天會到來，也就那樣了</p>
-<small>啊對 不知道看文章的各位，會不會覺得我文章有些句子莫名其妙，看不懂就去問Ai吧，我也不懂我在寫什麼了</small>]]></content>
     </entry>
 </feed>
